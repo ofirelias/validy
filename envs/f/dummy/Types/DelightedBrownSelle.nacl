@@ -1,0 +1,25 @@
+type dummy.DelightedBrownSelle {
+  annotations {
+    dummy.MerePurplePaolina PlainTomatoHedi {
+    }
+    number LeadingLimeAmy {
+    }
+    dummy.SunnyScarletGayle MagicBlushVivianna {
+    }
+    boolean ParentalCopperNanette {
+    }
+    dummy.ProtectiveBeigeCassie UnlikelySapphireCynde {
+    }
+    dummy.BroadGreenJacynth RainyApricotCornelle {
+    }
+  }
+  boolean CorrespondingBlueAntonella {
+  }
+  PlainTomatoHedi = 125
+  LeadingLimeAmy = 172
+  MagicBlushVivianna = true
+  ParentalCopperNanette = false
+  UnlikelySapphireCynde = true
+  RainyApricotCornelle = file("GoodCrimsonEnriqueta.txt")
+  _hidden_value = true
+}

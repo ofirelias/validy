@@ -1,0 +1,21 @@
+type dummy.BreezyRoseKoressa {
+  annotations {
+    dummy.QuietPlumCatharina AlertRedGypsy {
+    }
+    boolean RoundAquamarineKaril {
+    }
+    dummy.RealAmethystFawne FixedApricotAmi {
+    }
+    serviceid EuropeanMoccasinGloriane {
+    }
+    json DisabledRoseLauryn {
+    }
+  }
+  boolean EthnicSilverTally {
+  }
+  RoundAquamarineKaril = true
+  FixedApricotAmi = file("ConventionalBlackGrier.txt")
+  EuropeanMoccasinGloriane = "I was fired from the keyboard factory yesterday.  I wasn't putting in enough shifts."
+  DisabledRoseLauryn = "Slept like a log last night  woke up in the fireplace."
+  _hidden_value = true
+}

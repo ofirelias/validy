@@ -1,0 +1,7 @@
+type dummy.DifficultTurquoiseMaible is boolean {
+  annotations {
+    number VisitingApricotValery {
+    }
+  }
+  VisitingApricotValery = 445
+}

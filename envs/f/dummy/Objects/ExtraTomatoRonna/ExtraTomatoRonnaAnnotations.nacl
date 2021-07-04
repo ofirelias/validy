@@ -1,0 +1,53 @@
+type dummy.ExtraTomatoRonna {
+  annotations {
+    number SquareGoldMarguerite {
+    }
+    boolean HungryYellowMargarette {
+    }
+    dummy.MerePurplePaolina JollySapphireMathilda {
+    }
+    dummy.RealAmethystFawne OrangeGrayKalila {
+    }
+    serviceid WoodenBeigeAnneliese {
+    }
+    string MatureScarletCrysta {
+    }
+    string CompetentAmberAdelina {
+    }
+    dummy.SharpHarlequinOpalina SuperbCoffeeMelli {
+    }
+    serviceid FarFuchsiaJacquenette {
+    }
+    dummy.AdditionalVioletWrennie OrganicAmethystBeret {
+    }
+    dummy.TropicalScarletCora EstimatedTealGinni {
+    }
+    string StableEmeraldAretha {
+    }
+    dummy.RealAmethystFawne CombinedBrownRozalin {
+    }
+    dummy.MerePurplePaolina ManagingOrangeNatalina {
+    }
+    boolean ShallowGrayJacklyn {
+    }
+    dummy.HelpfulVioletLorine BraveMoccasinRahel {
+    }
+    boolean SteadyAmaranthMerrily {
+    }
+  }
+  SquareGoldMarguerite = 421
+  HungryYellowMargarette = true
+  JollySapphireMathilda = 248
+  OrangeGrayKalila = file("ColdPurpleStefa.txt")
+  WoodenBeigeAnneliese = "Why did the kid cross the playground? To get to the other slide."
+  MatureScarletCrysta = "To be Frank, I'd have to change my name."
+  CompetentAmberAdelina = "I'm tired of following my dreams. I'm just going to ask them where they are going and meet up with them later."
+  FarFuchsiaJacquenette = "Did you hear the joke about the wandering nun? She was a roman catholic."
+  OrganicAmethystBeret = 872
+  EstimatedTealGinni = file("StrongGrayTabby.txt")
+  StableEmeraldAretha = "What is a centipedes's favorite Beatle song?  I want to hold your hand, hand, hand, hand..."
+  CombinedBrownRozalin = file("ExcitingTanLusa.txt")
+  ManagingOrangeNatalina = 69
+  ShallowGrayJacklyn = false
+  SteadyAmaranthMerrily = true
+}

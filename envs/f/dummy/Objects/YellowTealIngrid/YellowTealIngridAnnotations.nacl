@@ -1,0 +1,75 @@
+type dummy.YellowTealIngrid {
+  annotations {
+    boolean CarefulAquaRafaela {
+    }
+    dummy.TropicalScarletCora UnexpectedGrayArlana {
+    }
+    dummy.CrazyVioletJoella BrownSapphireGisela {
+    }
+    dummy.RealAmethystFawne RuralCoralViolet {
+    }
+    dummy.UnwillingMoccasinEleonora MarxistYellowDierdre {
+    }
+    dummy.RealAmethystFawne CreativeBlushClemence {
+    }
+    number InfluentialRedCaitlin {
+    }
+    dummy.CreativeScarletSerene ComfortableBlueMarthe {
+    }
+    json TraditionalMagentaFernande {
+    }
+    dummy.RealAmethystFawne FairAmberAloisia {
+    }
+    serviceid InstitutionalAmaranthLorene {
+    }
+    number JapaneseTealYasmin {
+    }
+    dummy.WideVioletVivienne AnnualSapphireDaniele {
+    }
+    serviceid GiganticBeigeBelicia {
+    }
+    serviceid JollyTealInger {
+    }
+    dummy.ApparentMaroonMercie DistinctTealJennie {
+    }
+    json TopAmberLeoine {
+    }
+    dummy.InterestedBlackJeniffer ConfidentRoseSadie {
+    }
+    number InappropriateBlushMia {
+    }
+    dummy.MerePurplePaolina PricklyMoccasinMaudie {
+    }
+    dummy.LatinIvoryCarmen PositiveCoralBerta {
+    }
+    serviceid UniformAquamarineTomasine {
+    }
+    json UncomfortableFuchsiaRubia {
+    }
+    number CasualCoralDeeyn {
+    }
+    dummy.CoolMoccasinMalorie PublicBronzeFifine {
+    }
+  }
+  CarefulAquaRafaela = true
+  UnexpectedGrayArlana = file("CriminalSalmonCharmain.txt")
+  RuralCoralViolet = file("BroadBeigeBenny.txt")
+  MarxistYellowDierdre = file("LikeGrayNorma.txt")
+  CreativeBlushClemence = file("DangerousMaroonAilyn.txt")
+  InfluentialRedCaitlin = 357
+  ComfortableBlueMarthe = 211
+  TraditionalMagentaFernande = "A steak pun is a rare medium well done."
+  FairAmberAloisia = file("EasyMoccasinRhodia.txt")
+  InstitutionalAmaranthLorene = "I knew I shouldn't steal a mixer from work, but it was a whisk I was willing to take."
+  JapaneseTealYasmin = 479
+  GiganticBeigeBelicia = "Why does a Moon-rock taste better than an Earth-rock? Because it's a little meteor."
+  JollyTealInger = "How come the stadium got hot after the game? Because all of the fans left."
+  DistinctTealJennie = 711
+  TopAmberLeoine = "A steak pun is a rare medium well done."
+  InappropriateBlushMia = 381
+  PricklyMoccasinMaudie = 759
+  PositiveCoralBerta = true
+  UniformAquamarineTomasine = "Why didnt the skeleton cross the road? Because he had no guts."
+  UncomfortableFuchsiaRubia = "Why was it called the dark ages? Because of all the knights. "
+  CasualCoralDeeyn = 534
+}

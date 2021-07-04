@@ -1,0 +1,32 @@
+dummy.SpatialHarlequinAuria OddScarletLouella {
+  OutstandingPurpleEma = "A steak pun is a rare medium well done."
+  ElectricBlushFancy = [
+    file("ObviousCoffeeQuerida.txt"),
+    file("LongOliveOrly.txt"),
+    file("ShakyScarletValli.txt"),
+    file("ShiveringLimeDolores.txt"),
+    file("AmazingAzureJemimah.txt"),
+    file("YellowIndigoKendre.txt"),
+    file("AgreeableFuchsiaLanie.txt"),
+    file("BlushingCyanIlyse.txt"),
+    file("VictorianTurquoiseFionna.txt"),
+    file("LiableChocolateHope.txt"),
+    file("SingleAquamarineJoana.txt"),
+    file("InvisibleIvoryJuliette.txt"),
+    file("DarkOliveLorrie.txt"),
+    file("EasyFuchsiaElise.txt"),
+  ]
+  StrangeCoralBarby = "Why was it called the dark ages? Because of all the knights. "
+  SharedAmethystHannis = "What do you call two barracuda fish?  A Pairacuda!"
+  PlasticCoralVittoria = false
+  FlutteringBlushLetisha = {
+    CooingAquamarinePaule = 345
+    PublicBronzeAuberta = "Dad Im hungry  Hi hungry Im dad"
+    LegislativeSalmonAshlee = "My first time using an elevator was an uplifting experience. The second time let me down."
+  }
+  ConvincingAmethystGlenna = false
+  MaleSapphireMirelle = 19
+  SmilingPlumFawnia = true
+  CrazySalmonWilone = file("StiffOrangeCalli.txt")
+  _parent = dummy.SharpHarlequinOpalina
+}

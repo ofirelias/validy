@@ -1,0 +1,68 @@
+type dummy.PolitePurpleVerina {
+  annotations {
+    dummy.ApparentMaroonMercie CuriousGoldSandy {
+    }
+    json ScottishGreenOndrea {
+    }
+    json GiantPurpleEilis {
+    }
+    boolean SpecificHarlequinCaterina {
+    }
+    json PrivateAquamarineLinn {
+    }
+    dummy.RealAmethystFawne MonetaryAmethystDael {
+    }
+    json GenuineMoccasinAvril {
+    }
+  }
+  string PricklyBlushRoxy {
+  }
+  dummy.NiceAmethystZahara AfricanAmberCami {
+    FunctionalFuchsiaDoralia = "What did the father tomato say to the baby tomato whilst on a family walk? Ketchup."
+    AdvisoryPlumKip = true
+    YummyMaroonCaresa = "I knew I shouldn't steal a mixer from work, but it was a whisk I was willing to take."
+    DeafBlueEulalie = "A steak pun is a rare medium well done."
+    SoundCoffeeEthel = "Dad Im hungry  Hi hungry Im dad"
+    FamiliarAmethystDevin = "Why does a Moon-rock taste better than an Earth-rock? Because it's a little meteor."
+    LiterarySilverLucy = "What creature is smarter than a talking parrot? A spelling bee."
+    ExistingBlushCassi = file("CharmingAzureCinderella.txt")
+    SolidMagentaRora = "I thought my wife was joking when she said she'd leave me if I didn't stop signing \"I'm A Believer\"... Then I saw her face."
+    PremierBlackBibbye = 191
+    ImpressedAzureRosella = 262
+    BoredFuchsiaRasia = 813
+    VisibleCyanMia = 733
+    GentleRedMarley = "Did you hear the joke about the wandering nun? She was a roman catholic."
+    RidiculousTealMelessa = 772
+  }
+  number SaltyCoralSheri {
+  }
+  json ObnoxiousJadeArdyce {
+  }
+  dummy.TheoreticalChocolateKary UnderlyingAmaranthBenni {
+    InappropriateVioletBrandais = 482
+    SkilledCopperVivianne = "Dad Im hungry  Hi hungry Im dad"
+  }
+  number FierceAzureDusty {
+  }
+  serviceid HeadAmberAnnis {
+  }
+  dummy.EasyEmeraldDeloris HardTurquoiseRobin {
+    SpanishAmaranthHetty = true
+    RoyalLavenderTalia = false
+    GrimPeachElbertina = "Why is Peter Pan always flying? Because he Neverlands."
+    ComparableOliveTabina = "How come the stadium got hot after the game? Because all of the fans left."
+    SuperbSilverAudrye = true
+  }
+  serviceid LuckyAquaMarcia {
+  }
+  serviceid IsolatedScarletLacie {
+  }
+  CuriousGoldSandy = 912
+  ScottishGreenOndrea = "Why didnt the skeleton cross the road? Because he had no guts."
+  GiantPurpleEilis = "Dad Im hungry  Hi hungry Im dad"
+  SpecificHarlequinCaterina = false
+  PrivateAquamarineLinn = "Why does a Moon-rock taste better than an Earth-rock? Because it's a little meteor."
+  MonetaryAmethystDael = file("AbsoluteLimeMalva.txt")
+  GenuineMoccasinAvril = "What do you call two barracuda fish?  A Pairacuda!"
+  _hidden_value = true
+}

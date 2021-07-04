@@ -1,0 +1,50 @@
+type dummy.ResidentMaroonMerilyn {
+  annotations {
+    boolean CoolTealDari {
+    }
+    dummy.BalancedFuchsiaAnny HardWhiteKristien {
+    }
+    serviceid GlamorousBrownNetty {
+    }
+    dummy.DangerousGoldShannen ThenPurpleEmeline {
+    }
+    number PlasticAquaLeanna {
+    }
+    dummy.PsychiatricBrownEmmalynn RaspyWhiteWilly {
+    }
+    string PracticalYellowKarlotte {
+    }
+    json UnacceptableGoldJuanita {
+    }
+    dummy.StraightforwardChocolateZsazsa EducationalMoccasinCelestina {
+    }
+    number PuzzledGreenKimberlyn {
+    }
+    dummy.SharpHarlequinOpalina VisualAmaranthRoz {
+    }
+    dummy.ModernBlueErna OrangeRoseMeara {
+    }
+    dummy.ApparentMaroonMercie ConsciousAzureKorie {
+    }
+    string BraveTealCathrin {
+    }
+    string OuterWhiteCarolynn {
+    }
+    string StrictCyanDoralyn {
+    }
+  }
+  CoolTealDari = false
+  HardWhiteKristien = file("InevitableAquaOthilie.txt")
+  GlamorousBrownNetty = "Whoever invented the knock-knock joke should get a no bell prize."
+  ThenPurpleEmeline = true
+  PlasticAquaLeanna = 930
+  RaspyWhiteWilly = file("CompulsoryPeachSaloma.txt")
+  PracticalYellowKarlotte = "What do you do on a remote island? Try and find the TV island it belongs to."
+  UnacceptableGoldJuanita = "I thought my wife was joking when she said she'd leave me if I didn't stop signing \"I'm A Believer\"... Then I saw her face."
+  EducationalMoccasinCelestina = false
+  PuzzledGreenKimberlyn = 811
+  ConsciousAzureKorie = 300
+  BraveTealCathrin = "Why was it called the dark ages? Because of all the knights. "
+  OuterWhiteCarolynn = "What did one nut say as he chased another nut?  I'm a cashew!"
+  StrictCyanDoralyn = "What did one nut say as he chased another nut?  I'm a cashew!"
+}

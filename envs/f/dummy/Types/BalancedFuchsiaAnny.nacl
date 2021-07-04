@@ -1,0 +1,67 @@
+type dummy.BalancedFuchsiaAnny is string {
+  annotations {
+    boolean GreatGrayNessie {
+    }
+    dummy.SafeScarletMarguerite SurroundingEmeraldDemetria {
+    }
+    number LinearOrangePaola {
+    }
+    boolean LongCyanMarika {
+    }
+    number JitteryAquamarineLucy {
+    }
+    dummy.RealAmethystFawne RoastedTomatoJulie {
+    }
+    number BrightBlackMartita {
+    }
+    boolean FriendlyAmaranthJoline {
+    }
+    serviceid GenuineAmaranthSileas {
+    }
+    serviceid ObligedApricotCarrie {
+    }
+    string FaithfulCopperEmmy {
+    }
+    serviceid GeneticAmberMadonna {
+    }
+    serviceid LinguisticTealJaynell {
+    }
+    dummy.InevitableAmethystKlarika GastricLavenderKym {
+    }
+    serviceid DelightfulAmaranthKarmen {
+    }
+    dummy.DifficultTurquoiseMaible FlyingAzureZara {
+    }
+    serviceid MagneticAzureHelaine {
+    }
+    dummy.DefensiveAquamarineGeorgiana HotSilverNonah {
+    }
+    serviceid UnitedSapphireRoseanne {
+    }
+    dummy.BroadGreenJacynth AssistantTealVivyanne {
+    }
+    boolean LongAquaAnnadiane {
+    }
+  }
+  GreatGrayNessie = false
+  SurroundingEmeraldDemetria = 227
+  LinearOrangePaola = 526
+  LongCyanMarika = false
+  JitteryAquamarineLucy = 800
+  RoastedTomatoJulie = file("PeacefulBeigeAura.txt")
+  BrightBlackMartita = 404
+  FriendlyAmaranthJoline = true
+  GenuineAmaranthSileas = "To be Frank, I'd have to change my name."
+  ObligedApricotCarrie = "I thought my wife was joking when she said she'd leave me if I didn't stop signing \"I'm A Believer\"... Then I saw her face."
+  FaithfulCopperEmmy = "Im only familiar with 25 letters in the English language. I dont know why."
+  GeneticAmberMadonna = "What do you do on a remote island? Try and find the TV island it belongs to."
+  LinguisticTealJaynell = "I was fired from the keyboard factory yesterday.  I wasn't putting in enough shifts."
+  GastricLavenderKym = file("VoicelessCoralDevan.txt")
+  DelightfulAmaranthKarmen = "I was fired from the keyboard factory yesterday.  I wasn't putting in enough shifts."
+  FlyingAzureZara = true
+  MagneticAzureHelaine = "To be Frank, I'd have to change my name."
+  HotSilverNonah = 959
+  UnitedSapphireRoseanne = "I knew I shouldn't steal a mixer from work, but it was a whisk I was willing to take."
+  AssistantTealVivyanne = file("ReadyTanCassaundra.txt")
+  LongAquaAnnadiane = false
+}

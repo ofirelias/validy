@@ -1,0 +1,38 @@
+type dummy.ObjectiveLavenderAlicea {
+  annotations {
+    dummy.NiceAmethystZahara FinalSalmonCorissa {
+    }
+    serviceid ItchyHarlequinNoella {
+    }
+    boolean ImprovedJadeMaryanne {
+    }
+    string DeliciousRedNikki {
+    }
+  }
+  dummy.ConcretePurpleLuise LiberalTurquoiseRodie {
+    HelpfulChocolateAlbertina = "Why did the tomato blush? Because it saw the salad dressing."
+    FullCrimsonAngie = "My first time using an elevator was an uplifting experience. The second time let me down."
+    UnusualYellowRena = 854
+    PersonalGrayClo = "Dad Im hungry  Hi hungry Im dad"
+    SuperBronzeAthene = true
+    EncouragingSalmonFarra = 409
+    InjuredAzureKellie = 419
+    OppositeCoralRebekah = "I knew I shouldn't steal a mixer from work, but it was a whisk I was willing to take."
+    DeliciousMoccasinMadeleine = 78
+    ProtestantAmethystMarys = 693
+    EndlessBeigeCarol = 706
+    EmptyYellowValentia = 132
+    StableCyanRonni = "Did you hear the joke about the wandering nun? She was a roman catholic."
+    FuriousAmaranthSheila = false
+    NaughtyMagentaLyda = true
+    HuskyMaroonZsazsa = false
+    LabourSilverMarj = "Why does a Moon-rock taste better than an Earth-rock? Because it's a little meteor."
+    AssociatedBronzeKittie = 938
+    PresentIndigoTheressa = "Why did the tomato blush? Because it saw the salad dressing."
+  }
+  FinalSalmonCorissa = false
+  ItchyHarlequinNoella = "What is a centipedes's favorite Beatle song?  I want to hold your hand, hand, hand, hand..."
+  ImprovedJadeMaryanne = true
+  DeliciousRedNikki = "What do you call two barracuda fish?  A Pairacuda!"
+  _hidden_value = true
+}

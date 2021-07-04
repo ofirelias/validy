@@ -1,0 +1,53 @@
+type dummy.VastPurpleWandis {
+  annotations {
+    dummy.HighMagentaDevi CrowdedChocolateMartica {
+    }
+    dummy.ImpossibleWhiteRodi AlrightTealVivyan {
+    }
+    dummy.TheoreticalChocolateKary InnovativeGoldDeana {
+    }
+    dummy.CurvedTomatoJaclyn FollowingOliveChristyna {
+    }
+    string SubsequentAquaIlise {
+    }
+    dummy.NiceAmethystZahara BloodyIndigoJuieta {
+    }
+    dummy.BroadGreenJacynth LongScarletNell {
+    }
+    boolean TameWhiteBrietta {
+    }
+  }
+  dummy.DeafeningSapphireHulda RoughCopperVivien {
+    NaughtyFuchsiaIlsa = 904
+    SpontaneousLavenderEmmye = true
+    MuteIndigoDania = "What do you call two barracuda fish?  A Pairacuda!"
+    GastricAquaHelenelizabeth = 182
+    ElegantOliveElizabeth = false
+    AbundantLavenderPierrette = true
+    IntellectualJadeLanae = 373
+    PremierEmeraldUrsala = file("UnfortunateAmethystMela.txt")
+    SwiftScarletLindy = file("DisabledPlumNaomi.txt")
+    EligibleVioletJobina = 564
+    QuaintTealAllsun = file("HorribleRedErtha.txt")
+    RottenAmberChastity = file("AddedMaroonFerne.txt")
+    FondAquaGilligan = true
+    ExpectedEmeraldClareta = "A steak pun is a rare medium well done."
+    ValidJadeAriadne = "Why did the kid cross the playground? To get to the other slide."
+    SillyRedNicoline = 621
+    BusyCyanVonnie = false
+    InnerLimeDavida = true
+    EffectiveBrownKirstin = "Why did the tomato blush? Because it saw the salad dressing."
+    ShallowOliveKrystal = file("UnfortunatePlumAlessandra.txt")
+    BetterSalmonTarra = 834
+    UnpleasantGreenJoete = {
+      legit = "What do you call two barracuda fish?  A Pairacuda!"
+    }
+  }
+  CrowdedChocolateMartica = file("ResidentialSilverQuentin.txt")
+  InnovativeGoldDeana = true
+  SubsequentAquaIlise = "What do you do on a remote island? Try and find the TV island it belongs to."
+  BloodyIndigoJuieta = true
+  LongScarletNell = file("AwakeScarletAlta.txt")
+  TameWhiteBrietta = false
+  _hidden_value = true
+}

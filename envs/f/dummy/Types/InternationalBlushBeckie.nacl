@@ -1,0 +1,37 @@
+type dummy.InternationalBlushBeckie {
+  annotations {
+    dummy.ConcretePurpleLuise HighCopperBrooks {
+    }
+    dummy.InevitableAmethystKlarika InnocentCoffeeCrystie {
+    }
+    string AwfulSapphireBlisse {
+    }
+    dummy.MerePurplePaolina EagerOrangeJeannine {
+    }
+    serviceid InstitutionalLavenderDatha {
+    }
+  }
+  dummy.NiceAmethystZahara NewMaroonKiley {
+    FunctionalFuchsiaDoralia = "How come the stadium got hot after the game? Because all of the fans left."
+    AdvisoryPlumKip = false
+    YummyMaroonCaresa = "What do you call two barracuda fish?  A Pairacuda!"
+    DeafBlueEulalie = "Did you hear about the guy whose whole left side was cut off? He's all right now."
+    SoundCoffeeEthel = "Why did the kid cross the playground? To get to the other slide."
+    FamiliarAmethystDevin = "Why was it called the dark ages? Because of all the knights. "
+    LiterarySilverLucy = "Chances are if you' ve seen one shopping center, you've seen a mall."
+    ExistingBlushCassi = file("RealisticPeachLeeann.txt")
+    SolidMagentaRora = "Chances are if you' ve seen one shopping center, you've seen a mall."
+    PremierBlackBibbye = 482
+    ImpressedAzureRosella = 886
+    BoredFuchsiaRasia = 577
+    VisibleCyanMia = 100
+    GentleRedMarley = "What did the father tomato say to the baby tomato whilst on a family walk? Ketchup."
+    RidiculousTealMelessa = 527
+  }
+  HighCopperBrooks = false
+  InnocentCoffeeCrystie = file("BritishPurpleMahala.txt")
+  AwfulSapphireBlisse = "What do you do on a remote island? Try and find the TV island it belongs to."
+  EagerOrangeJeannine = 570
+  InstitutionalLavenderDatha = "I was fired from the keyboard factory yesterday.  I wasn't putting in enough shifts."
+  _hidden_value = true
+}

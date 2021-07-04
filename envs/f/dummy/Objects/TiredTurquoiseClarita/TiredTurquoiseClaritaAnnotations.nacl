@@ -1,0 +1,66 @@
+type dummy.TiredTurquoiseClarita {
+  annotations {
+    dummy.SafeScarletMarguerite UsefulCoffeeLaryssa {
+    }
+    string RealGoldLu {
+    }
+    dummy.RealAmethystFawne OrdinaryFuchsiaEllene {
+    }
+    number SquareTomatoMelonie {
+    }
+    json ExtremeAmberLanny {
+    }
+    boolean TerritorialSilverRozelle {
+    }
+    dummy.ConcretePurpleLuise FitGrayAura {
+    }
+    boolean LiteraryVioletMolli {
+    }
+    dummy.SunnyScarletGayle AutonomousAquaAurea {
+    }
+    string CruelCopperRosie {
+    }
+    dummy.VictoriousHarlequinDebbie AveragePlumBeatriz {
+    }
+    dummy.ApparentMaroonMercie BasicVioletNolie {
+    }
+    dummy.TropicalScarletCora JuicyVioletMelisandra {
+    }
+    dummy.InsufficientChocolateMargi FunctionalCopperVal {
+    }
+    json PrintedPlumTrenna {
+    }
+    dummy.SunnyScarletGayle ManagingBeigeTrixi {
+    }
+    dummy.ChangingCrimsonOlivie TallMoccasinMaryrose {
+    }
+    dummy.RealAmethystFawne FixedSapphireHaley {
+    }
+    dummy.DefensiveAquamarineGeorgiana RapidWhiteFrancine {
+    }
+    dummy.ConcretePurpleLuise ManualAmaranthCaitlin {
+    }
+    dummy.VictoriousHarlequinDebbie FormalTomatoKeelia {
+    }
+  }
+  UsefulCoffeeLaryssa = 555
+  RealGoldLu = "What do you call two barracuda fish?  A Pairacuda!"
+  OrdinaryFuchsiaEllene = file("SureSapphireLorinda.txt")
+  SquareTomatoMelonie = 487
+  ExtremeAmberLanny = "I'll tell you what often gets over looked... garden fences."
+  TerritorialSilverRozelle = true
+  FitGrayAura = true
+  LiteraryVioletMolli = false
+  AutonomousAquaAurea = true
+  CruelCopperRosie = "A steak pun is a rare medium well done."
+  AveragePlumBeatriz = true
+  BasicVioletNolie = 369
+  JuicyVioletMelisandra = file("CognitiveBlackAllyson.txt")
+  PrintedPlumTrenna = "I thought my wife was joking when she said she'd leave me if I didn't stop signing \"I'm A Believer\"... Then I saw her face."
+  ManagingBeigeTrixi = true
+  TallMoccasinMaryrose = false
+  FixedSapphireHaley = file("EmpiricalBlushCorrianne.txt")
+  RapidWhiteFrancine = 869
+  ManualAmaranthCaitlin = true
+  FormalTomatoKeelia = true
+}

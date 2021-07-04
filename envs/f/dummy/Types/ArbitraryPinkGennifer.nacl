@@ -1,0 +1,31 @@
+type dummy.ArbitraryPinkGennifer {
+  annotations {
+    dummy.DifficultTurquoiseMaible DisturbingAzureMirelle {
+    }
+    serviceid SickScarletPen {
+    }
+    string ConfidentAquaElise {
+    }
+    dummy.SafeScarletMarguerite ConsciousBeigeMartynne {
+    }
+    dummy.DefensiveAquamarineGeorgiana RetiredBeigeJeniffer {
+    }
+  }
+  dummy.SafeScarletMarguerite LinguisticOliveLenore {
+    IdeologicalBeigeHephzibah = 87
+    CleverWhiteBrinna = file("EldestRoseCarmon.txt")
+    ModestPurplePrudence = "What do you do on a remote island? Try and find the TV island it belongs to."
+    RetiredYellowDianemarie = true
+    GreatBlushAlikee = 525
+    GrandPinkAdelheid = file("BroadYellowAloisia.txt")
+    SevereTanPerry = "What creature is smarter than a talking parrot? A spelling bee."
+    VitalMagentaRayna = "Why did the tomato blush? Because it saw the salad dressing."
+    EntitledPurpleGena = "What is a centipedes's favorite Beatle song?  I want to hold your hand, hand, hand, hand..."
+  }
+  DisturbingAzureMirelle = true
+  SickScarletPen = "I was fired from the keyboard factory yesterday.  I wasn't putting in enough shifts."
+  ConfidentAquaElise = "Did you know that protons have mass? I didn't even know they were catholic."
+  ConsciousBeigeMartynne = 292
+  RetiredBeigeJeniffer = 541
+  _hidden_value = true
+}

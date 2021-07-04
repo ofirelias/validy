@@ -1,0 +1,22 @@
+type dummy.NaturalApricotGarland {
+  annotations {
+    string KnownOliveHermine {
+    }
+    json ResponsibleBronzeDatha {
+    }
+    dummy.VictoriousHarlequinDebbie ChemicalScarletBreanne {
+    }
+    string AestheticMoccasinDiane {
+    }
+    json ValidBlackPhyllis {
+    }
+  }
+  number ConstantSalmonLinea {
+  }
+  KnownOliveHermine = "What do you call two barracuda fish?  A Pairacuda!"
+  ResponsibleBronzeDatha = "To be Frank, I'd have to change my name."
+  ChemicalScarletBreanne = false
+  AestheticMoccasinDiane = "What do you do on a remote island? Try and find the TV island it belongs to."
+  ValidBlackPhyllis = "What did the father tomato say to the baby tomato whilst on a family walk? Ketchup."
+  _hidden_value = true
+}

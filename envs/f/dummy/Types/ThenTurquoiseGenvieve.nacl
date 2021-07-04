@@ -1,0 +1,34 @@
+type dummy.ThenTurquoiseGenvieve {
+  annotations {
+    string PlannedCrimsonLira {
+    }
+    dummy.ResidentialAzureAubry SkinnyTomatoArdis {
+    }
+    string CoolEmeraldBabbie {
+    }
+    serviceid TerribleAzureDanny {
+    }
+    dummy.BroadGreenJacynth HandicappedFuchsiaBelvia {
+    }
+    dummy.ResidentialAzureAubry YellowGoldDaveen {
+    }
+    dummy.RealAmethystFawne ChristianOrangeSalomi {
+    }
+  }
+  dummy.RemoteVioletZuzana NetVioletElisabetta {
+    MutualHarlequinFidelia = "Whoever invented the knock-knock joke should get a no bell prize."
+    RegionalBrownRonni = 424
+    SupposedMoccasinJanenna = "A steak pun is a rare medium well done."
+    BlackTanGert = 932
+    TartAmethystEunice = file("ModernGoldElna.txt")
+    LargeTomatoDemetris = "Why did the kid cross the playground? To get to the other slide."
+  }
+  PlannedCrimsonLira = "What did one nut say as he chased another nut?  I'm a cashew!"
+  SkinnyTomatoArdis = file("GiganticVioletArdyth.txt")
+  CoolEmeraldBabbie = "Why did the tomato blush? Because it saw the salad dressing."
+  TerribleAzureDanny = "Dad Im hungry  Hi hungry Im dad"
+  HandicappedFuchsiaBelvia = file("StraightChocolateTimi.txt")
+  YellowGoldDaveen = file("MobileLavenderPriscilla.txt")
+  ChristianOrangeSalomi = file("GoverningPeachHalley.txt")
+  _hidden_value = true
+}

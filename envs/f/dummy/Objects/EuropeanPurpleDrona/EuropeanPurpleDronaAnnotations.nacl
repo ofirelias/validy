@@ -1,0 +1,73 @@
+type dummy.EuropeanPurpleDrona {
+  annotations {
+    dummy.NervousLimeFina DisabledScarletIlsa {
+    }
+    dummy.DangerousGoldShannen WelshOliveLelah {
+    }
+    dummy.HandsomeMaroonRyann NotableChocolateLeia {
+    }
+    serviceid CuriousRedAllina {
+    }
+    dummy.HighMagentaDevi GastricLavenderBlinny {
+    }
+    json KindBlueRheba {
+    }
+    serviceid SlowEmeraldLori {
+    }
+    boolean NoisyTurquoiseEleonore {
+    }
+    json HappyAquaBerny {
+    }
+    dummy.InevitableAmethystKlarika DesperateApricotElita {
+    }
+    dummy.RedPeachFaunie ComfortableBeigeLinzy {
+    }
+    boolean AverageCrimsonAdi {
+    }
+    boolean HiddenEmeraldWinnah {
+    }
+    number SocialistAmaranthFidela {
+    }
+    string LongGrayAbbie {
+    }
+    dummy.RedPeachFaunie EntireGrayEvaleen {
+    }
+    dummy.ShyLimeTobey PlainWhiteErminia {
+    }
+    serviceid AppropriateAquamarineCrissie {
+    }
+    dummy.RealAmethystFawne AmbitiousSalmonEalasaid {
+    }
+    dummy.MerePurplePaolina MammothAmberCelinka {
+    }
+    dummy.NervousLimeFina DelicateEmeraldDelphine {
+    }
+    dummy.ChangingCrimsonOlivie UnusualSapphireQuerida {
+    }
+    string UpsetPurpleLaurel {
+    }
+  }
+  DisabledScarletIlsa = 770
+  WelshOliveLelah = false
+  NotableChocolateLeia = file("BoredWhiteElysee.txt")
+  CuriousRedAllina = "Did you know that protons have mass? I didn't even know they were catholic."
+  GastricLavenderBlinny = file("ColonialPeachFrancisca.txt")
+  KindBlueRheba = "I thought my wife was joking when she said she'd leave me if I didn't stop signing \"I'm A Believer\"... Then I saw her face."
+  SlowEmeraldLori = "Did you know that protons have mass? I didn't even know they were catholic."
+  NoisyTurquoiseEleonore = false
+  HappyAquaBerny = "I'll tell you what often gets over looked... garden fences."
+  DesperateApricotElita = file("ChiefBlueDonni.txt")
+  ComfortableBeigeLinzy = file("SubjectiveSalmonLyndel.txt")
+  AverageCrimsonAdi = false
+  HiddenEmeraldWinnah = true
+  SocialistAmaranthFidela = 846
+  LongGrayAbbie = "Im only familiar with 25 letters in the English language. I dont know why."
+  EntireGrayEvaleen = file("ArabScarletDrucie.txt")
+  PlainWhiteErminia = false
+  AppropriateAquamarineCrissie = "What do you call two barracuda fish?  A Pairacuda!"
+  AmbitiousSalmonEalasaid = file("BasicCyanHeidie.txt")
+  MammothAmberCelinka = 409
+  DelicateEmeraldDelphine = 227
+  UnusualSapphireQuerida = false
+  UpsetPurpleLaurel = "Im only familiar with 25 letters in the English language. I dont know why."
+}

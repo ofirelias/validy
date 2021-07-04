@@ -1,0 +1,10 @@
+type dummy.NervousLimeFina is number {
+  annotations {
+    string IdenticalBronzeRori {
+    }
+    dummy.BroadGreenJacynth GloriousBlushCosetta {
+    }
+  }
+  IdenticalBronzeRori = "Why did the tomato blush? Because it saw the salad dressing."
+  GloriousBlushCosetta = file("OfficialVioletEvvie.txt")
+}

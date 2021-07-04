@@ -1,0 +1,55 @@
+type dummy.MathematicalRoseStella {
+  annotations {
+    boolean RoundYellowChanda {
+    }
+    boolean ProspectiveTealFelicle {
+    }
+    number DoubtfulCoralMyriam {
+    }
+    boolean MightyTomatoMeg {
+    }
+    string ImportantHarlequinKissee {
+    }
+    dummy.DangerousGoldShannen DetailedCoffeeRoch {
+    }
+    string PerfectTanKayle {
+    }
+    boolean HonestCyanJewell {
+    }
+    serviceid MassiveScarletSimona {
+    }
+    string WonderfulGrayBerrie {
+    }
+    serviceid SpecificJadeGeorgianna {
+    }
+    boolean EmbarrassedTanBianca {
+    }
+    dummy.BroadGreenJacynth LowSilverKim {
+    }
+    number OrthodoxPinkBrandie {
+    }
+    dummy.ConcretePurpleLuise FellowAmaranthCilka {
+    }
+    boolean JapaneseOrangeHendrika {
+    }
+    dummy.MerePurplePaolina StrangeGrayBrook {
+    }
+  }
+  RoundYellowChanda = true
+  ProspectiveTealFelicle = true
+  DoubtfulCoralMyriam = 807
+  MightyTomatoMeg = true
+  ImportantHarlequinKissee = "Im only familiar with 25 letters in the English language. I dont know why."
+  DetailedCoffeeRoch = false
+  PerfectTanKayle = "To be Frank, I'd have to change my name."
+  HonestCyanJewell = false
+  MassiveScarletSimona = "I'm tired of following my dreams. I'm just going to ask them where they are going and meet up with them later."
+  WonderfulGrayBerrie = "Dad Im hungry  Hi hungry Im dad"
+  SpecificJadeGeorgianna = "Why is Peter Pan always flying? Because he Neverlands."
+  EmbarrassedTanBianca = false
+  LowSilverKim = file("MereAmberDrucy.txt")
+  OrthodoxPinkBrandie = 730
+  FellowAmaranthCilka = true
+  JapaneseOrangeHendrika = true
+  StrangeGrayBrook = 286
+}

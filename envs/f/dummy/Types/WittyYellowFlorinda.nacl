@@ -1,0 +1,25 @@
+type dummy.WittyYellowFlorinda {
+  annotations {
+    dummy.NaughtyHarlequinGertie GrowingJadeClary {
+    }
+    json DeadScarletTamra {
+    }
+    string MechanicalTurquoiseNike {
+    }
+    serviceid WideOliveCarmella {
+    }
+    dummy.RealAmethystFawne MysteriousBlueSelma {
+    }
+    json JollySilverMegen {
+    }
+  }
+  boolean MonthlyBlushDayle {
+  }
+  GrowingJadeClary = false
+  DeadScarletTamra = "Whoever invented the knock-knock joke should get a no bell prize."
+  MechanicalTurquoiseNike = "Why was it called the dark ages? Because of all the knights. "
+  WideOliveCarmella = "Im only familiar with 25 letters in the English language. I dont know why."
+  MysteriousBlueSelma = file("BroadIvoryLarisa.txt")
+  JollySilverMegen = "What do you do on a remote island? Try and find the TV island it belongs to."
+  _hidden_value = true
+}

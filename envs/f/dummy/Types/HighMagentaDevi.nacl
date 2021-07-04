@@ -1,0 +1,37 @@
+type dummy.HighMagentaDevi is string {
+  annotations {
+    json OutdoorAzureGwenette {
+    }
+    dummy.UnwillingMoccasinEleonora IntegralAmaranthPatrica {
+    }
+    string NastyLimeMarsha {
+    }
+    string AmusedYellowMair {
+    }
+    boolean SquareBlushMara {
+    }
+    serviceid AdequateBeigeCordelie {
+    }
+    serviceid ComingCrimsonCaty {
+    }
+    number ScarySilverAdrianna {
+    }
+    string MightyBlueDorian {
+    }
+    dummy.NaughtyHarlequinGertie GreatPeachCharita {
+    }
+    json PositiveOrangeAshlie {
+    }
+  }
+  OutdoorAzureGwenette = "Did you hear the joke about the wandering nun? She was a roman catholic."
+  IntegralAmaranthPatrica = file("SufficientOrangeLotty.txt")
+  NastyLimeMarsha = "What did the father tomato say to the baby tomato whilst on a family walk? Ketchup."
+  AmusedYellowMair = "What do you call two barracuda fish?  A Pairacuda!"
+  SquareBlushMara = false
+  AdequateBeigeCordelie = "What did one nut say as he chased another nut?  I'm a cashew!"
+  ComingCrimsonCaty = "What did one nut say as he chased another nut?  I'm a cashew!"
+  ScarySilverAdrianna = 985
+  MightyBlueDorian = "Did you know that protons have mass? I didn't even know they were catholic."
+  GreatPeachCharita = true
+  PositiveOrangeAshlie = "Im only familiar with 25 letters in the English language. I dont know why."
+}

@@ -1,0 +1,72 @@
+type dummy.FriendlyCopperTedda {
+  annotations {
+    json TypicalCoffeeKariotta {
+    }
+    serviceid MilitaryTealSusanna {
+    }
+    json UnacceptableTanNadia {
+    }
+    dummy.SafeScarletMarguerite TinyAzureAgathe {
+    }
+    json ExclusiveScarletWinnie {
+    }
+    dummy.ImpossibleWhiteRodi BoredIvoryJessie {
+    }
+    dummy.RedPeachFaunie FavouriteIndigoRoselia {
+    }
+    dummy.IslamicJadeJean PlannedIvoryKassia {
+    }
+    string SuperiorCoffeeFreddi {
+    }
+    json SplendidOrangeJacki {
+    }
+    string CivilCoralAlica {
+    }
+    dummy.DEFAULT PreciseSapphireNaomi {
+    }
+    boolean DangerousBeigeVina {
+    }
+    dummy.CrazyVioletJoella DevelopedGoldReta {
+    }
+    boolean DeepAquamarineMelony {
+    }
+    boolean AcuteIvoryClarabelle {
+    }
+    serviceid SmoggySalmonArlyne {
+    }
+    dummy.UnwillingMoccasinEleonora BeneficialSalmonRoxie {
+    }
+    dummy.ValuableRedDeeann InstantGreenRosetta {
+    }
+    dummy.BroadGreenJacynth FavouriteLimeJorry {
+    }
+    boolean UnemployedOliveVelvet {
+    }
+    dummy.HighMagentaDevi ExcellentWhiteMarina {
+    }
+    json ArtisticSalmonRobinetta {
+    }
+  }
+  TypicalCoffeeKariotta = "My first time using an elevator was an uplifting experience. The second time let me down."
+  MilitaryTealSusanna = "Did you know that protons have mass? I didn't even know they were catholic."
+  UnacceptableTanNadia = "Did you hear the joke about the wandering nun? She was a roman catholic."
+  TinyAzureAgathe = 880
+  ExclusiveScarletWinnie = "What is a centipedes's favorite Beatle song?  I want to hold your hand, hand, hand, hand..."
+  FavouriteIndigoRoselia = file("RedTanWendie.txt")
+  SuperiorCoffeeFreddi = "Did you hear about the guy whose whole left side was cut off? He's all right now."
+  SplendidOrangeJacki = "What do you call two barracuda fish?  A Pairacuda!"
+  CivilCoralAlica = "What creature is smarter than a talking parrot? A spelling bee."
+  PreciseSapphireNaomi = {
+    legit = "A steak pun is a rare medium well done."
+  }
+  DangerousBeigeVina = false
+  DeepAquamarineMelony = true
+  AcuteIvoryClarabelle = false
+  SmoggySalmonArlyne = "Slept like a log last night  woke up in the fireplace."
+  BeneficialSalmonRoxie = file("VariableScarletGypsy.txt")
+  InstantGreenRosetta = true
+  FavouriteLimeJorry = file("FairTanOfella.txt")
+  UnemployedOliveVelvet = true
+  ExcellentWhiteMarina = file("SwiftScarletHelaine.txt")
+  ArtisticSalmonRobinetta = "Im only familiar with 25 letters in the English language. I dont know why."
+}

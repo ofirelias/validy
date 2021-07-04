@@ -1,0 +1,31 @@
+type dummy.TenderChocolateRicky {
+  annotations {
+    dummy.MerePurplePaolina BlackCrimsonBobinette {
+    }
+    number AnnualLavenderSimonette {
+    }
+    dummy.CarefulAmethystEryn MainOrangeCoralie {
+    }
+    number GreekOrangeYasmin {
+    }
+    number DevelopingGreenNari {
+    }
+    string UsefulVioletBetta {
+    }
+    dummy.NiceAmethystZahara WearyAzureAngeline {
+    }
+  }
+  dummy.WonderfulBlackLaureen RoughLimeJanean {
+    SlowOrangeEmlynn = 137
+    IllCopperSalome = file("AmusedAzureSherri.txt")
+    DefensiveBlackSallee = "To be Frank, I'd have to change my name."
+    AnonymousTurquoiseEmmalyn = 843
+  }
+  BlackCrimsonBobinette = 155
+  AnnualLavenderSimonette = 220
+  GreekOrangeYasmin = 871
+  DevelopingGreenNari = 547
+  UsefulVioletBetta = "What did one nut say as he chased another nut?  I'm a cashew!"
+  WearyAzureAngeline = false
+  _hidden_value = true
+}

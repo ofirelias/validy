@@ -1,0 +1,56 @@
+type dummy.PurringBrownBillye {
+  annotations {
+    number HandsomePurpleElyn {
+    }
+    boolean PrimaryCoffeeAudy {
+    }
+    dummy.CrookedCrimsonCami HeadPinkGabbi {
+    }
+    dummy.ResidentialAzureAubry LevelCoffeeMillicent {
+    }
+    json ScatteredSalmonGretta {
+    }
+    dummy.ConcretePurpleLuise StupidPlumNolana {
+    }
+    serviceid LoudJadeEmmy {
+    }
+    dummy.LoyalAquaMarylin IndependentWhiteIlka {
+    }
+    serviceid OccupationalTealTeena {
+    }
+    serviceid SquareTealBella {
+    }
+    serviceid UrgentTomatoCarroll {
+    }
+    json DarkTealHeather {
+    }
+    dummy.RealAmethystFawne ArrogantAmaranthTally {
+    }
+    boolean BiologicalTealMarie {
+    }
+    json RegisteredWhiteElsey {
+    }
+    string ClassicGoldMari {
+    }
+    dummy.RemoteVioletZuzana SupportingCopperRosamund {
+    }
+    number OppositeBlushSidonnie {
+    }
+  }
+  HandsomePurpleElyn = 886
+  PrimaryCoffeeAudy = true
+  LevelCoffeeMillicent = file("NobleMaroonTimmy.txt")
+  ScatteredSalmonGretta = "What do you do on a remote island? Try and find the TV island it belongs to."
+  StupidPlumNolana = true
+  LoudJadeEmmy = "Did you know that protons have mass? I didn't even know they were catholic."
+  IndependentWhiteIlka = false
+  OccupationalTealTeena = "Im only familiar with 25 letters in the English language. I dont know why."
+  SquareTealBella = "I thought my wife was joking when she said she'd leave me if I didn't stop signing \"I'm A Believer\"... Then I saw her face."
+  UrgentTomatoCarroll = "Slept like a log last night  woke up in the fireplace."
+  DarkTealHeather = "Why do birds fly south for the winter? Because it's too far to walk."
+  ArrogantAmaranthTally = file("AnnoyedSapphireTheda.txt")
+  BiologicalTealMarie = true
+  RegisteredWhiteElsey = "Why is Peter Pan always flying? Because he Neverlands."
+  ClassicGoldMari = "What is a centipedes's favorite Beatle song?  I want to hold your hand, hand, hand, hand..."
+  OppositeBlushSidonnie = 936
+}

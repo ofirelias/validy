@@ -1,0 +1,24 @@
+type dummy.BrightCoffeeAlia {
+  annotations {
+    dummy.TheoreticalChocolateKary ComprehensiveOliveYettie {
+    }
+    dummy.ValuableRedDeeann InterestingChocolateRamona {
+    }
+    json UselessOliveLuisa {
+    }
+    json CommercialYellowGrace {
+    }
+    json KindTealJerrilyn {
+    }
+    dummy.CoolMoccasinMalorie ImpressedBronzeLyndell {
+    }
+  }
+  string SufficientWhiteFarah {
+  }
+  ComprehensiveOliveYettie = false
+  InterestingChocolateRamona = false
+  UselessOliveLuisa = "Im only familiar with 25 letters in the English language. I dont know why."
+  CommercialYellowGrace = "Im only familiar with 25 letters in the English language. I dont know why."
+  KindTealJerrilyn = "What did one nut say as he chased another nut?  I'm a cashew!"
+  _hidden_value = true
+}

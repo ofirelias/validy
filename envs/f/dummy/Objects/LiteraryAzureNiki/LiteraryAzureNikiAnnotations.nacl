@@ -1,0 +1,66 @@
+type dummy.LiteraryAzureNiki {
+  annotations {
+    json HandsomeBlackFayina {
+    }
+    number AdditionalAquamarineMarje {
+    }
+    string SoundAquamarineKaitlyn {
+    }
+    number BackWhiteAlice {
+    }
+    number ArchitecturalBeigeZsazsa {
+    }
+    boolean GoldenSilverCathyleen {
+    }
+    json ExcitedIndigoKarie {
+    }
+    json IrrelevantLimeDoralynne {
+    }
+    json OptimisticAmaranthJessalyn {
+    }
+    dummy.ConcretePurpleLuise ChristianYellowKaylyn {
+    }
+    dummy.ResidentialAzureAubry ControversialAquaGlenna {
+    }
+    dummy.ConcretePurpleLuise SouthernAquamarineDoralynn {
+    }
+    number ProfitableBronzeCorinna {
+    }
+    dummy.TheoreticalChocolateKary ContentTealIsidora {
+    }
+    serviceid GiantVioletLouella {
+    }
+    dummy.SafeScarletMarguerite SufficientCoffeeMinnie {
+    }
+    dummy.CreativeScarletSerene ParallelSapphireJeniffer {
+    }
+    dummy.UnwillingMoccasinEleonora SuitableOrangeReeva {
+    }
+    dummy.WeakPeachRomona MarkedVioletSileas {
+    }
+    serviceid InquisitiveCyanKora {
+    }
+    boolean RoyalPeachMadalena {
+    }
+  }
+  HandsomeBlackFayina = "Why did the tomato blush? Because it saw the salad dressing."
+  AdditionalAquamarineMarje = 256
+  SoundAquamarineKaitlyn = "I knew I shouldn't steal a mixer from work, but it was a whisk I was willing to take."
+  BackWhiteAlice = 350
+  ArchitecturalBeigeZsazsa = 489
+  GoldenSilverCathyleen = true
+  ExcitedIndigoKarie = "Why does a Moon-rock taste better than an Earth-rock? Because it's a little meteor."
+  IrrelevantLimeDoralynne = "What did the father tomato say to the baby tomato whilst on a family walk? Ketchup."
+  OptimisticAmaranthJessalyn = "Why was it called the dark ages? Because of all the knights. "
+  ChristianYellowKaylyn = true
+  ControversialAquaGlenna = file("UnnecessaryAmethystElsa.txt")
+  SouthernAquamarineDoralynn = true
+  ProfitableBronzeCorinna = 851
+  ContentTealIsidora = false
+  GiantVioletLouella = "I was fired from the keyboard factory yesterday.  I wasn't putting in enough shifts."
+  SufficientCoffeeMinnie = 711
+  ParallelSapphireJeniffer = 669
+  SuitableOrangeReeva = file("UnnecessaryPlumBritte.txt")
+  InquisitiveCyanKora = "Why didnt the skeleton cross the road? Because he had no guts."
+  RoyalPeachMadalena = false
+}

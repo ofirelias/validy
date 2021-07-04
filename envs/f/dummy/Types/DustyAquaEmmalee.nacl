@@ -1,0 +1,31 @@
+type dummy.DustyAquaEmmalee {
+  annotations {
+    dummy.RealAmethystFawne FixedLavenderLebbie {
+    }
+    boolean ProudCopperAlena {
+    }
+    serviceid LegalVioletCherish {
+    }
+    dummy.SunnyScarletGayle ExcitedSalmonJeanine {
+    }
+    dummy.RealAmethystFawne BriefPurpleElysha {
+    }
+    string WoodenCopperCamile {
+    }
+    string ProbableTurquoiseCamala {
+    }
+  }
+  dummy.ProtectiveBeigeCassie BurningAquaSydel {
+    QuickestAmethystAngy = "What did one nut say as he chased another nut?  I'm a cashew!"
+    SpotlessPinkChiquita = "Why did the kid cross the playground? To get to the other slide."
+    ZanyEmeraldDeloria = true
+  }
+  FixedLavenderLebbie = file("NastyPinkDotty.txt")
+  ProudCopperAlena = false
+  LegalVioletCherish = "Why is Peter Pan always flying? Because he Neverlands."
+  ExcitedSalmonJeanine = true
+  BriefPurpleElysha = file("WetCopperAimil.txt")
+  WoodenCopperCamile = "To be Frank, I'd have to change my name."
+  ProbableTurquoiseCamala = "Did you hear the joke about the wandering nun? She was a roman catholic."
+  _hidden_value = true
+}

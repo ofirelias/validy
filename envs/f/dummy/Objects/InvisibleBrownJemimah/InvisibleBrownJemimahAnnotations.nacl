@@ -1,0 +1,66 @@
+type dummy.InvisibleBrownJemimah {
+  annotations {
+    dummy.TropicalScarletCora TameJadeZorah {
+    }
+    json WholeBronzeShaylynn {
+    }
+    dummy.CreativeScarletSerene RelatedRedJewell {
+    }
+    string ContentGoldDannie {
+    }
+    dummy.RedPeachFaunie SocialistAmberGlenda {
+    }
+    dummy.NiceAmethystZahara UrgentPeachFanni {
+    }
+    string CooingChocolateSelina {
+    }
+    number DevelopingPurpleHesther {
+    }
+    serviceid FatalCyanBerry {
+    }
+    dummy.TropicalScarletCora SunnySalmonQuintilla {
+    }
+    dummy.CreativeScarletSerene PremierScarletBrandie {
+    }
+    string ParticularCrimsonMinnie {
+    }
+    json StatutoryAmethystShaylah {
+    }
+    json BriefMagentaGabbey {
+    }
+    dummy.RedPeachFaunie TremendousOliveCarolin {
+    }
+    serviceid DisturbedHarlequinAileen {
+    }
+    json WildFuchsiaCary {
+    }
+    boolean DecisiveYellowBenita {
+    }
+    json HugeAmberKarly {
+    }
+    dummy.AfricanAmaranthHally SuitableBrownAlison {
+    }
+    json CheerfulTanAgace {
+    }
+  }
+  TameJadeZorah = file("ControlledLavenderTerrie.txt")
+  WholeBronzeShaylynn = "Dad Im hungry  Hi hungry Im dad"
+  RelatedRedJewell = 20
+  ContentGoldDannie = "What is a centipedes's favorite Beatle song?  I want to hold your hand, hand, hand, hand..."
+  SocialistAmberGlenda = file("TurkishCoralBelvia.txt")
+  UrgentPeachFanni = true
+  CooingChocolateSelina = "What creature is smarter than a talking parrot? A spelling bee."
+  DevelopingPurpleHesther = 948
+  FatalCyanBerry = "Why did the tomato blush? Because it saw the salad dressing."
+  SunnySalmonQuintilla = file("StickyHarlequinSibeal.txt")
+  PremierScarletBrandie = 688
+  ParticularCrimsonMinnie = "I knew I shouldn't steal a mixer from work, but it was a whisk I was willing to take."
+  StatutoryAmethystShaylah = "How come the stadium got hot after the game? Because all of the fans left."
+  BriefMagentaGabbey = "My first time using an elevator was an uplifting experience. The second time let me down."
+  TremendousOliveCarolin = file("AdvisoryPeachMartica.txt")
+  DisturbedHarlequinAileen = "Why didnt the skeleton cross the road? Because he had no guts."
+  WildFuchsiaCary = "Im only familiar with 25 letters in the English language. I dont know why."
+  DecisiveYellowBenita = true
+  HugeAmberKarly = "Why do birds fly south for the winter? Because it's too far to walk."
+  CheerfulTanAgace = "Why did the tomato blush? Because it saw the salad dressing."
+}

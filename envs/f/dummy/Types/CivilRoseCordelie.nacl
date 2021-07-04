@@ -1,0 +1,61 @@
+type dummy.CivilRoseCordelie {
+  annotations {
+    serviceid IsolatedBeigeCorrena {
+    }
+    dummy.DefensiveAquamarineGeorgiana ImperialMoccasinWinnah {
+    }
+    serviceid FollowingHarlequinElizabet {
+    }
+    serviceid RoughGreenLark {
+    }
+    string RegulatoryGoldCorina {
+    }
+  }
+  dummy.VictoriousHarlequinDebbie ExcessivePurpleShanon {
+    ArabAmberRoana = 602
+    AliveGreenJanina = file("CrazyTomatoFlorie.txt")
+    HonestGoldTarrah = "Why didnt the skeleton cross the road? Because he had no guts."
+    ExcessiveYellowKarena = false
+    CulturalAquamarineGussie = false
+    ArchitecturalPeachHilliary = file("MinimumMagentaAgata.txt")
+    FairScarletPhaidra = "What do you call two barracuda fish?  A Pairacuda!"
+    RottenCoralConstancia = "I knew I shouldn't steal a mixer from work, but it was a whisk I was willing to take."
+    QuietIndigoKaye = false
+  }
+  dummy.HighMagentaDevi DisgustedPeachLindsey {
+    OutdoorAzureGwenette = "Whoever invented the knock-knock joke should get a no bell prize."
+    IntegralAmaranthPatrica = file("SunnyCoralBrandais.txt")
+    NastyLimeMarsha = "Did you hear the joke about the wandering nun? She was a roman catholic."
+    AmusedYellowMair = "What do you call two barracuda fish?  A Pairacuda!"
+    SquareBlushMara = false
+    AdequateBeigeCordelie = "What did one nut say as he chased another nut?  I'm a cashew!"
+    ComingCrimsonCaty = "Why did the kid cross the playground? To get to the other slide."
+    ScarySilverAdrianna = 504
+    MightyBlueDorian = "Slept like a log last night  woke up in the fireplace."
+    GreatPeachCharita = true
+    PositiveOrangeAshlie = "I'm tired of following my dreams. I'm just going to ask them where they are going and meet up with them later."
+  }
+  dummy.CreativeScarletSerene BigSapphireMartynne {
+    FutureCoralKamilah = "Im only familiar with 25 letters in the English language. I dont know why."
+    LivingWhiteRosie = true
+    ConstitutionalCoralMarisa = 688
+  }
+  json SmoothBlackElsi {
+  }
+  number SillyOliveIngeborg {
+  }
+  "List<serviceid>" CommercialTanKaile {
+  }
+  string AwakeCrimsonMirna {
+  }
+  json CompleteEmeraldAilsun {
+  }
+  json HappyWhiteGertrudis {
+  }
+  IsolatedBeigeCorrena = "Im only familiar with 25 letters in the English language. I dont know why."
+  ImperialMoccasinWinnah = 308
+  FollowingHarlequinElizabet = "Did you know that protons have mass? I didn't even know they were catholic."
+  RoughGreenLark = "What creature is smarter than a talking parrot? A spelling bee."
+  RegulatoryGoldCorina = "Did you hear the joke about the wandering nun? She was a roman catholic."
+  _hidden_value = true
+}

@@ -1,0 +1,57 @@
+type dummy.InterimTanAnabella {
+  annotations {
+    boolean StripedPlumTawsha {
+    }
+    number FemaleAmethystKirby {
+    }
+    serviceid DeepAmethystDynah {
+    }
+    dummy.SoundScarletInga LateScarletKalie {
+    }
+    dummy.ImpossibleWhiteRodi DefeatedChocolateHarriette {
+    }
+    dummy.HandsomeMaroonRyann HelpfulWhiteTuesday {
+    }
+    dummy.TropicalScarletCora RainyTealBilly {
+    }
+    string ScaryTealErminia {
+    }
+    boolean ScrawnyMagentaGilly {
+    }
+    dummy.NervousLimeFina ShortWhiteNanci {
+    }
+    json BlushingLavenderLindie {
+    }
+    dummy.NiceAmethystZahara SuddenYellowKaralynn {
+    }
+    number PregnantIvoryGiulietta {
+    }
+    boolean NecessaryTealKarel {
+    }
+    string RelativeLimeDiane {
+    }
+    dummy.RussianPinkCinda BurningMaroonEolande {
+    }
+    dummy.RealCopperAbbi WorthwhileApricotGiuditta {
+    }
+    dummy.InsufficientChocolateMargi OutrageousMagentaBlancha {
+    }
+    dummy.RemoteVioletZuzana ExtraWhiteCassaundra {
+    }
+  }
+  StripedPlumTawsha = false
+  FemaleAmethystKirby = 138
+  DeepAmethystDynah = "Why didnt the skeleton cross the road? Because he had no guts."
+  LateScarletKalie = file("CostlyTomatoKristine.txt")
+  HelpfulWhiteTuesday = file("PerfectTealElly.txt")
+  RainyTealBilly = file("GrubbyBlueLivvie.txt")
+  ScaryTealErminia = "How come the stadium got hot after the game? Because all of the fans left."
+  ScrawnyMagentaGilly = false
+  ShortWhiteNanci = 780
+  BlushingLavenderLindie = "Im only familiar with 25 letters in the English language. I dont know why."
+  SuddenYellowKaralynn = true
+  PregnantIvoryGiulietta = 488
+  NecessaryTealKarel = true
+  RelativeLimeDiane = "Dad Im hungry  Hi hungry Im dad"
+  WorthwhileApricotGiuditta = true
+}

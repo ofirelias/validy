@@ -1,0 +1,25 @@
+type dummy.ProminentBlueAlbina {
+  annotations {
+    dummy.BroadGreenJacynth VaryingBeigeCory {
+    }
+    string OnlyGreenMaureen {
+    }
+    boolean SorryHarlequinMasha {
+    }
+    dummy.SafeScarletMarguerite AlliedWhiteCindy {
+    }
+    dummy.HandsomeMaroonRyann GenuineBlackAudrie {
+    }
+    dummy.MerePurplePaolina BitterMaroonAile {
+    }
+  }
+  boolean StickyAzureStephani {
+  }
+  VaryingBeigeCory = file("ExclusiveSapphireJennifer.txt")
+  OnlyGreenMaureen = "Chances are if you' ve seen one shopping center, you've seen a mall."
+  SorryHarlequinMasha = true
+  AlliedWhiteCindy = 412
+  GenuineBlackAudrie = file("UnderlyingCoffeeEran.txt")
+  BitterMaroonAile = 132
+  _hidden_value = true
+}

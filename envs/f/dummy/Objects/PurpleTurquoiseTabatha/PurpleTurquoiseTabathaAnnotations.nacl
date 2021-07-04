@@ -1,0 +1,55 @@
+type dummy.PurpleTurquoiseTabatha {
+  annotations {
+    dummy.ImpossibleWhiteRodi BroadAmberAnnamaria {
+    }
+    number RollingApricotPriscilla {
+    }
+    dummy.PsychiatricBrownEmmalynn ProductiveAquamarineShawna {
+    }
+    dummy.MisleadingFuchsiaIngrid PunyTealSari {
+    }
+    dummy.PsychiatricBrownEmmalynn DeliciousTealMozelle {
+    }
+    dummy.ImpossibleWhiteRodi CrazyBlackArabel {
+    }
+    boolean IndustrialPeachLaurene {
+    }
+    number HighScarletDayna {
+    }
+    json EnglishAquaRoz {
+    }
+    dummy.InevitableAmethystKlarika CrowdedBeigeGuenevere {
+    }
+    boolean StillMoccasinGerti {
+    }
+    serviceid IntegratedTurquoiseRubi {
+    }
+    string MiniaturePurpleLyndsay {
+    }
+    dummy.TropicalScarletCora VariedChocolateBarbaraanne {
+    }
+    dummy.RottenRedKimberley ConcernedBlushTaryn {
+    }
+    number GayCoffeeRayna {
+    }
+    boolean FlatLavenderKirsteni {
+    }
+    serviceid ConceptualWhiteAthene {
+    }
+  }
+  RollingApricotPriscilla = 289
+  ProductiveAquamarineShawna = file("NarrowOliveNanon.txt")
+  PunyTealSari = file("FavouriteSapphireSharai.txt")
+  DeliciousTealMozelle = file("SpecialFuchsiaAlana.txt")
+  IndustrialPeachLaurene = true
+  HighScarletDayna = 390
+  EnglishAquaRoz = "Im only familiar with 25 letters in the English language. I dont know why."
+  CrowdedBeigeGuenevere = file("TallWhiteTabbi.txt")
+  StillMoccasinGerti = false
+  IntegratedTurquoiseRubi = "Why do birds fly south for the winter? Because it's too far to walk."
+  MiniaturePurpleLyndsay = "What did one nut say as he chased another nut?  I'm a cashew!"
+  VariedChocolateBarbaraanne = file("AdjacentLavenderKaree.txt")
+  GayCoffeeRayna = 197
+  FlatLavenderKirsteni = true
+  ConceptualWhiteAthene = "Why did the tomato blush? Because it saw the salad dressing."
+}

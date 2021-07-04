@@ -1,0 +1,36 @@
+type dummy.RareJadeOrel {
+  annotations {
+    boolean SecureMoccasinBrittney {
+    }
+    number CuddlyGrayFay {
+    }
+    dummy.SafeScarletMarguerite PreferredRoseDacy {
+    }
+    dummy.MisleadingFuchsiaIngrid WillingCoralBridget {
+    }
+    boolean HostileSilverOlivie {
+    }
+    json SurroundingJadeHildagard {
+    }
+  }
+  dummy.MisleadingFuchsiaIngrid FairBeigeValentina {
+    MuteHarlequinCoralie = file("BetterTanMyrtia.txt")
+    WearyHarlequinMagdaia = file("AnxiousMaroonJerrilee.txt")
+    BiologicalMaroonDiena = file("ForwardTomatoAnet.txt")
+    AdequateBlueFianna = file("FrightenedJadeMarcellina.txt")
+    SelectedTealDonni = "Why was it called the dark ages? Because of all the knights. "
+    ForwardSalmonOlympie = "Slept like a log last night  woke up in the fireplace."
+    WeirdEmeraldPhyllys = true
+    StupidAquaNatalee = "Why didnt the skeleton cross the road? Because he had no guts."
+    ManyMaroonBettine = "Why did the tomato blush? Because it saw the salad dressing."
+    CrudeChocolateMeris = "Did you hear the joke about the wandering nun? She was a roman catholic."
+    DelightfulCopperLavena = "How come the stadium got hot after the game? Because all of the fans left."
+  }
+  SecureMoccasinBrittney = true
+  CuddlyGrayFay = 998
+  PreferredRoseDacy = 624
+  WillingCoralBridget = file("DyingBlueNoemi.txt")
+  HostileSilverOlivie = true
+  SurroundingJadeHildagard = "Did you hear about the guy whose whole left side was cut off? He's all right now."
+  _hidden_value = true
+}

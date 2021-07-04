@@ -1,0 +1,21 @@
+type dummy.QuickAmberLatia {
+  annotations {
+    string DefensiveRedLilian {
+    }
+    dummy.EasyEmeraldDeloris WidespreadAmberAbbye {
+    }
+    number WillingMaroonCinda {
+    }
+    string IllegalVioletSue {
+    }
+    dummy.ConcretePurpleLuise UnwillingBlueCamella {
+    }
+  }
+  serviceid SuperGreenPeggie {
+  }
+  DefensiveRedLilian = "What do you call two barracuda fish?  A Pairacuda!"
+  WillingMaroonCinda = 124
+  IllegalVioletSue = "Slept like a log last night  woke up in the fireplace."
+  UnwillingBlueCamella = false
+  _hidden_value = true
+}

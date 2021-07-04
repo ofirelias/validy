@@ -1,0 +1,66 @@
+type dummy.PleasantGrayOlenka {
+  annotations {
+    json SaltySapphireMarybelle {
+    }
+    dummy.ImpossibleWhiteRodi LivelyCopperTandi {
+    }
+    json AggressiveWhiteVeronica {
+    }
+    json WesternCopperRobbin {
+    }
+    string MarriedCyanBrinna {
+    }
+    dummy.InevitableAmethystKlarika JoyousBlueSheba {
+    }
+    boolean RationalSapphireAbigail {
+    }
+    dummy.DefensiveAquamarineGeorgiana OldCrimsonHarri {
+    }
+    serviceid BlindYellowLuciana {
+    }
+    serviceid OperationalSalmonValeda {
+    }
+    dummy.TropicalScarletCora RealEmeraldMarjorie {
+    }
+    dummy.MerePurplePaolina AbsentAmethystRafaelita {
+    }
+    dummy.RedPeachFaunie AnonymousRedViola {
+    }
+    json GradualBlackEssy {
+    }
+    dummy.StraightforwardChocolateZsazsa DesirablePeachLissie {
+    }
+    dummy.NiceAmethystZahara FamousBrownMaxie {
+    }
+    json DistinguishedEmeraldBev {
+    }
+    dummy.SoundScarletInga SatisfactoryOliveGinni {
+    }
+    number YellowLimeViviene {
+    }
+    dummy.ValuableRedDeeann EarlyOliveTheda {
+    }
+    number InteriorAmaranthJenda {
+    }
+  }
+  SaltySapphireMarybelle = "How come the stadium got hot after the game? Because all of the fans left."
+  AggressiveWhiteVeronica = "Why does a Moon-rock taste better than an Earth-rock? Because it's a little meteor."
+  WesternCopperRobbin = "Why is Peter Pan always flying? Because he Neverlands."
+  MarriedCyanBrinna = "What is a centipedes's favorite Beatle song?  I want to hold your hand, hand, hand, hand..."
+  JoyousBlueSheba = file("CuteApricotBrett.txt")
+  RationalSapphireAbigail = false
+  OldCrimsonHarri = 595
+  BlindYellowLuciana = "Did you know that protons have mass? I didn't even know they were catholic."
+  OperationalSalmonValeda = "Why didnt the skeleton cross the road? Because he had no guts."
+  RealEmeraldMarjorie = file("EuropeanBeigeCatriona.txt")
+  AbsentAmethystRafaelita = 979
+  AnonymousRedViola = file("CulturalScarletKarolina.txt")
+  GradualBlackEssy = "How come the stadium got hot after the game? Because all of the fans left."
+  DesirablePeachLissie = true
+  FamousBrownMaxie = true
+  DistinguishedEmeraldBev = "I'm tired of following my dreams. I'm just going to ask them where they are going and meet up with them later."
+  SatisfactoryOliveGinni = file("HollowBlushDallas.txt")
+  YellowLimeViviene = 871
+  EarlyOliveTheda = true
+  InteriorAmaranthJenda = 671
+}

@@ -1,0 +1,63 @@
+type dummy.PleasantMoccasinNorah {
+  annotations {
+    string ShySalmonMalissia {
+    }
+    number CrazyScarletGerianna {
+    }
+    dummy.VictoriousHarlequinDebbie LiquidGoldCharline {
+    }
+    dummy.RealAmethystFawne EqualCoffeeOphelie {
+    }
+    dummy.DefensiveAquamarineGeorgiana EnergeticAmethystQuintana {
+    }
+    number BlackPinkCaitlin {
+    }
+  }
+  boolean UnfairBronzeFarand {
+  }
+  serviceid MistyBlackKatusha {
+  }
+  dummy.InevitableAmethystKlarika EndlessAmaranthAnnie {
+    ForeignSapphireCeleste = false
+    SeparateCoralLeone = "Did you hear the joke about the wandering nun? She was a roman catholic."
+    SolidPinkDiana = true
+  }
+  boolean NarrowYellowSheelah {
+  }
+  string AbsentBlueBenedetta {
+  }
+  dummy.MerePurplePaolina BewilderedBeigeRonni {
+    SquareIvoryHedy = file("DependentCoffeeDenise.txt")
+    DetailedJadeDorotea = false
+    ExcitedSilverStephi = false
+    CharmingVioletRoselle = file("TremendousTanCarlynn.txt")
+    DefensivePlumSaraann = {
+      legit = "Did you hear the joke about the wandering nun? She was a roman catholic."
+    }
+    DarkBlueSam = true
+    NotableTealAvie = "What did one nut say as he chased another nut?  I'm a cashew!"
+  }
+  boolean SharpWhiteFenelia {
+  }
+  dummy.IndirectAquamarineMyrilla ChosenCyanMarabel {
+    ApplicableBlushBlinni = 799
+    WiseGreenCaitrin = "How come the stadium got hot after the game? Because all of the fans left."
+    EncouragingTanJolee = 333
+    HuskyScarletNariko = "To be Frank, I'd have to change my name."
+    MagentaAmberMillicent = true
+    LongScarletCelesta = "Whoever invented the knock-knock joke should get a no bell prize."
+  }
+  boolean InstitutionalHarlequinKaron {
+  }
+  string WonderfulSalmonKevyn {
+  }
+  serviceid AdverseOrangeRanda {
+  }
+  ShySalmonMalissia = "What did one nut say as he chased another nut?  I'm a cashew!"
+  CrazyScarletGerianna = 91
+  LiquidGoldCharline = true
+  EqualCoffeeOphelie = file("DetailedGoldTiphany.txt")
+  EnergeticAmethystQuintana = 441
+  BlackPinkCaitlin = 709
+  _hidden_value = true
+}

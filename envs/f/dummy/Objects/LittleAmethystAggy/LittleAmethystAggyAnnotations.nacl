@@ -1,0 +1,57 @@
+type dummy.LittleAmethystAggy {
+  annotations {
+    dummy.BeneficialHarlequinZea InstantGreenCecilia {
+    }
+    boolean UglyLavenderKatrina {
+    }
+    dummy.ApparentMaroonMercie UnhappyRoseKyla {
+    }
+    boolean TartOrangeEmili {
+    }
+    dummy.TropicalScarletCora ExceptionalMagentaEmmie {
+    }
+    dummy.MisleadingFuchsiaIngrid QuietGrayFrannie {
+    }
+    dummy.ConcretePurpleLuise MarineFuchsiaNorene {
+    }
+    dummy.HighMagentaDevi ChillyTomatoKirsten {
+    }
+    serviceid UnconsciousChocolateMead {
+    }
+    string ComfortableAquaAg {
+    }
+    dummy.RealCopperAbbi BraveTanKatlin {
+    }
+    dummy.ValuableRedDeeann ClassicalBlackMatilda {
+    }
+    number YummyRoseCelestyna {
+    }
+    dummy.TropicalScarletCora SpecifiedMaroonBecka {
+    }
+    serviceid SimilarOrangeLexine {
+    }
+    json UndergroundSalmonMarni {
+    }
+    serviceid SlightEmeraldTess {
+    }
+    json WonderfulBlackEvangelina {
+    }
+  }
+  UglyLavenderKatrina = true
+  UnhappyRoseKyla = 29
+  TartOrangeEmili = true
+  ExceptionalMagentaEmmie = file("SlipperyGreenWandie.txt")
+  QuietGrayFrannie = file("RedundantBlueAarika.txt")
+  MarineFuchsiaNorene = true
+  ChillyTomatoKirsten = file("HolyEmeraldKissie.txt")
+  UnconsciousChocolateMead = "Im only familiar with 25 letters in the English language. I dont know why."
+  ComfortableAquaAg = "Why does a Moon-rock taste better than an Earth-rock? Because it's a little meteor."
+  BraveTanKatlin = false
+  ClassicalBlackMatilda = true
+  YummyRoseCelestyna = 797
+  SpecifiedMaroonBecka = file("RuralPinkAgnes.txt")
+  SimilarOrangeLexine = "My first time using an elevator was an uplifting experience. The second time let me down."
+  UndergroundSalmonMarni = "What do you do on a remote island? Try and find the TV island it belongs to."
+  SlightEmeraldTess = "What do you call two barracuda fish?  A Pairacuda!"
+  WonderfulBlackEvangelina = "Why do birds fly south for the winter? Because it's too far to walk."
+}

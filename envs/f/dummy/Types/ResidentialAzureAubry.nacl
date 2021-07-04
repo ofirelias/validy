@@ -1,0 +1,49 @@
+type dummy.ResidentialAzureAubry is string {
+  annotations {
+    number HorizontalCrimsonChrystal {
+    }
+    dummy.RedPeachFaunie WonderfulLimeBernette {
+    }
+    json ElderlyBlushBrandi {
+    }
+    string MightySilverGwendolin {
+    }
+    boolean MagentaHarlequinDanyelle {
+    }
+    json SelfishYellowBrenn {
+    }
+    dummy.RedPeachFaunie GoodCoralCaritta {
+    }
+    number ShakyAquamarineOlly {
+    }
+    json RuralAmethystPhyllys {
+    }
+    json MereTurquoiseAtlanta {
+    }
+    string SouthernSapphireGrace {
+    }
+    dummy.RedPeachFaunie CreativeApricotJo {
+    }
+    dummy.UnwillingMoccasinEleonora UnemployedYellowDorene {
+    }
+    boolean SheerTanPhylys {
+    }
+    number LinearBrownGloriane {
+    }
+  }
+  HorizontalCrimsonChrystal = 428
+  WonderfulLimeBernette = file("BloodyBlueAnnalee.txt")
+  ElderlyBlushBrandi = "I thought my wife was joking when she said she'd leave me if I didn't stop signing \"I'm A Believer\"... Then I saw her face."
+  MightySilverGwendolin = "What creature is smarter than a talking parrot? A spelling bee."
+  MagentaHarlequinDanyelle = false
+  SelfishYellowBrenn = "What do you call two barracuda fish?  A Pairacuda!"
+  GoodCoralCaritta = file("EstablishedCrimsonJami.txt")
+  ShakyAquamarineOlly = 194
+  RuralAmethystPhyllys = "Why did the kid cross the playground? To get to the other slide."
+  MereTurquoiseAtlanta = "My first time using an elevator was an uplifting experience. The second time let me down."
+  SouthernSapphireGrace = "What is a centipedes's favorite Beatle song?  I want to hold your hand, hand, hand, hand..."
+  CreativeApricotJo = file("OutdoorScarletLurette.txt")
+  UnemployedYellowDorene = file("SexualWhiteKevyn.txt")
+  SheerTanPhylys = false
+  LinearBrownGloriane = 645
+}

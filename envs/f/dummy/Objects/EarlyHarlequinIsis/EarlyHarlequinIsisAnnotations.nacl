@@ -1,0 +1,66 @@
+type dummy.EarlyHarlequinIsis {
+  annotations {
+    dummy.SunnyScarletGayle SemanticAmaranthEdna {
+    }
+    dummy.MerePurplePaolina TurkishBlushNancie {
+    }
+    number WeakBrownLivvyy {
+    }
+    dummy.SunnyScarletGayle WickedFuchsiaSarita {
+    }
+    dummy.MerePurplePaolina WelshCopperBarbaraanne {
+    }
+    dummy.ConcretePurpleLuise StormyMoccasinEmma {
+    }
+    number OlympicGoldBetteanne {
+    }
+    dummy.SafeScarletMarguerite CleanCyanKarlene {
+    }
+    boolean DelightfulOrangeOfelia {
+    }
+    string HurtSalmonPattie {
+    }
+    boolean AnnualCoffeeKaylee {
+    }
+    string LengthyAquaRica {
+    }
+    number SmoothGrayCosette {
+    }
+    dummy.DangerousGoldShannen GrowingMoccasinIleane {
+    }
+    dummy.DefensiveAquamarineGeorgiana HonestMaroonLexie {
+    }
+    dummy.HandsomeMaroonRyann DoubtfulPlumAntoinette {
+    }
+    dummy.RealAmethystFawne ArbitraryTealCharlotta {
+    }
+    number ComparativeCopperDarell {
+    }
+    dummy.IslamicJadeJean CreepyScarletAllis {
+    }
+    serviceid GrimVioletRhodia {
+    }
+    dummy.ApparentMaroonMercie ShaggyAmethystSidonnie {
+    }
+  }
+  SemanticAmaranthEdna = true
+  TurkishBlushNancie = 46
+  WeakBrownLivvyy = 345
+  WickedFuchsiaSarita = true
+  WelshCopperBarbaraanne = 148
+  StormyMoccasinEmma = false
+  OlympicGoldBetteanne = 460
+  CleanCyanKarlene = 367
+  DelightfulOrangeOfelia = true
+  HurtSalmonPattie = "Im only familiar with 25 letters in the English language. I dont know why."
+  AnnualCoffeeKaylee = true
+  LengthyAquaRica = "I'll tell you what often gets over looked... garden fences."
+  SmoothGrayCosette = 307
+  GrowingMoccasinIleane = false
+  HonestMaroonLexie = 726
+  DoubtfulPlumAntoinette = file("DramaticBlueKi.txt")
+  ArbitraryTealCharlotta = file("RevolutionaryTurquoiseRonnica.txt")
+  ComparativeCopperDarell = 703
+  GrimVioletRhodia = "Im only familiar with 25 letters in the English language. I dont know why."
+  ShaggyAmethystSidonnie = 301
+}

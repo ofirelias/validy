@@ -1,0 +1,63 @@
+type dummy.MildLavenderCharissa {
+  annotations {
+    dummy.DifficultTurquoiseMaible BoldGrayKevyn {
+    }
+    dummy.ProtectiveBeigeCassie ObedientPurpleKaty {
+    }
+    dummy.BroadGreenJacynth ZanyMagentaKyrstin {
+    }
+    json FriendlyCyanPhilippa {
+    }
+    string FunctionalAmethystPhedra {
+    }
+    number SymbolicPinkMoyna {
+    }
+    dummy.TropicalScarletCora ObviousAmethystCelle {
+    }
+    number SmallTomatoTabina {
+    }
+    dummy.HelpfulBlueAtlanta CleanOrangeSaloma {
+    }
+    number ElatedIndigoAnsley {
+    }
+    dummy.HandsomeMaroonRyann DrivingIndigoBerenice {
+    }
+    string InclinedTomatoMarga {
+    }
+    string KeenAmaranthAriana {
+    }
+    dummy.SafeScarletMarguerite SpecificYellowRoobbie {
+    }
+    number OddGrayAlejandra {
+    }
+    string FewHarlequinRhonda {
+    }
+    boolean StrikingMaroonMoria {
+    }
+    boolean MereBronzeKitti {
+    }
+    serviceid TenderApricotCherilyn {
+    }
+    boolean EasyAmberSonni {
+    }
+  }
+  BoldGrayKevyn = false
+  ObedientPurpleKaty = true
+  ZanyMagentaKyrstin = file("BeautifulChocolateJaquith.txt")
+  FriendlyCyanPhilippa = "Why didnt the skeleton cross the road? Because he had no guts."
+  FunctionalAmethystPhedra = "Dad Im hungry  Hi hungry Im dad"
+  SymbolicPinkMoyna = 522
+  ObviousAmethystCelle = file("BlackCoffeeDelinda.txt")
+  SmallTomatoTabina = 806
+  ElatedIndigoAnsley = 79
+  DrivingIndigoBerenice = file("SocialPurpleAgnola.txt")
+  InclinedTomatoMarga = "What creature is smarter than a talking parrot? A spelling bee."
+  KeenAmaranthAriana = "What do you do on a remote island? Try and find the TV island it belongs to."
+  SpecificYellowRoobbie = 330
+  OddGrayAlejandra = 226
+  FewHarlequinRhonda = "Dad Im hungry  Hi hungry Im dad"
+  StrikingMaroonMoria = false
+  MereBronzeKitti = false
+  TenderApricotCherilyn = "What creature is smarter than a talking parrot? A spelling bee."
+  EasyAmberSonni = true
+}

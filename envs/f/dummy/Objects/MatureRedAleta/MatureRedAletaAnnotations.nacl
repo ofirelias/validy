@@ -1,0 +1,63 @@
+type dummy.MatureRedAleta {
+  annotations {
+    boolean SmoothApricotGlenine {
+    }
+    json AmericanApricotGelya {
+    }
+    dummy.PsychiatricBrownEmmalynn TiredScarletCaty {
+    }
+    string BrokenBrownBrana {
+    }
+    dummy.NervousLimeFina TestyCoralOlive {
+    }
+    boolean DigitalBrownRoselle {
+    }
+    string PreliminaryApricotChrista {
+    }
+    dummy.CreativeScarletSerene PresentAquamarineCarmita {
+    }
+    dummy.SystematicBrownJulietta BoredScarletKacey {
+    }
+    json SlowCyanHelen {
+    }
+    dummy.DifficultTurquoiseMaible SoleMagentaCatarina {
+    }
+    boolean MiddleCoralMissie {
+    }
+    dummy.DangerousGoldShannen EasternBeigeJulieta {
+    }
+    number ContentWhiteSusannah {
+    }
+    string ViolentBeigeHelaine {
+    }
+    dummy.UnwillingMoccasinEleonora ObligedScarletChristel {
+    }
+    boolean ElegantRoseAlene {
+    }
+    serviceid ColouredTurquoiseElie {
+    }
+    dummy.DifficultTurquoiseMaible BiologicalGrayHelsa {
+    }
+    string CurvedTanNoell {
+    }
+  }
+  SmoothApricotGlenine = false
+  AmericanApricotGelya = "Why does a Moon-rock taste better than an Earth-rock? Because it's a little meteor."
+  TiredScarletCaty = file("CharmingBronzeSibylle.txt")
+  BrokenBrownBrana = "I knew I shouldn't steal a mixer from work, but it was a whisk I was willing to take."
+  TestyCoralOlive = 834
+  DigitalBrownRoselle = true
+  PreliminaryApricotChrista = "What creature is smarter than a talking parrot? A spelling bee."
+  PresentAquamarineCarmita = 423
+  SlowCyanHelen = "What creature is smarter than a talking parrot? A spelling bee."
+  SoleMagentaCatarina = false
+  MiddleCoralMissie = false
+  EasternBeigeJulieta = false
+  ContentWhiteSusannah = 831
+  ViolentBeigeHelaine = "I knew I shouldn't steal a mixer from work, but it was a whisk I was willing to take."
+  ObligedScarletChristel = file("LazySalmonConstantine.txt")
+  ElegantRoseAlene = true
+  ColouredTurquoiseElie = "Why was it called the dark ages? Because of all the knights. "
+  BiologicalGrayHelsa = false
+  CurvedTanNoell = "What did the father tomato say to the baby tomato whilst on a family walk? Ketchup."
+}

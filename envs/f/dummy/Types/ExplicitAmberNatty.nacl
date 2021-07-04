@@ -1,0 +1,22 @@
+type dummy.ExplicitAmberNatty {
+  annotations {
+    boolean PsychiatricYellowNorean {
+    }
+    dummy.LoyalAquaMarylin UnpleasantRoseMyrta {
+    }
+    serviceid DistinctRoseCatlee {
+    }
+    dummy.SoundScarletInga AbsentAmaranthMarybeth {
+    }
+    dummy.MerePurplePaolina IdealTurquoiseCalli {
+    }
+  }
+  serviceid ArchitecturalLavenderLeia {
+  }
+  PsychiatricYellowNorean = true
+  UnpleasantRoseMyrta = true
+  DistinctRoseCatlee = "Why did the tomato blush? Because it saw the salad dressing."
+  AbsentAmaranthMarybeth = file("FunnyBeigeDavine.txt")
+  IdealTurquoiseCalli = 6
+  _hidden_value = true
+}

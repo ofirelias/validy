@@ -1,0 +1,25 @@
+type dummy.UnfortunateGoldGlynda {
+  annotations {
+    string ConceptualScarletDee {
+    }
+    json ShortFuchsiaMyrtia {
+    }
+    number HarshCopperAmelita {
+    }
+    number BackLavenderMargalit {
+    }
+    serviceid TropicalBronzeRora {
+    }
+    dummy.TheoreticalChocolateKary IllFuchsiaAindrea {
+    }
+  }
+  serviceid AncientWhiteKari {
+  }
+  ConceptualScarletDee = "Dad Im hungry  Hi hungry Im dad"
+  ShortFuchsiaMyrtia = "Why do birds fly south for the winter? Because it's too far to walk."
+  HarshCopperAmelita = 344
+  BackLavenderMargalit = 751
+  TropicalBronzeRora = "Why didnt the skeleton cross the road? Because he had no guts."
+  IllFuchsiaAindrea = false
+  _hidden_value = true
+}

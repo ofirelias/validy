@@ -1,0 +1,25 @@
+type dummy.InitialAzureCelestina {
+  annotations {
+    string HomelessChocolateNorine {
+    }
+    json LengthyAquaRafaela {
+    }
+    json CleanPurpleTerrie {
+    }
+    dummy.ProtectiveBeigeCassie HurtCoffeeEmmalynne {
+    }
+  }
+  dummy.ForthcomingBlueOliy ImpossiblePurpleTeriann {
+    BottomBlueDanell = false
+    WesternSapphireEffie = "I was fired from the keyboard factory yesterday.  I wasn't putting in enough shifts."
+    TightTanRevkah = "Slept like a log last night  woke up in the fireplace."
+    ConvincingHarlequinCissiee = 831
+    UnderlyingAmberCherish = true
+    ExcellentCoralHatty = "Why does a Moon-rock taste better than an Earth-rock? Because it's a little meteor."
+  }
+  HomelessChocolateNorine = "Im only familiar with 25 letters in the English language. I dont know why."
+  LengthyAquaRafaela = "What did one nut say as he chased another nut?  I'm a cashew!"
+  CleanPurpleTerrie = "A steak pun is a rare medium well done."
+  HurtCoffeeEmmalynne = true
+  _hidden_value = true
+}

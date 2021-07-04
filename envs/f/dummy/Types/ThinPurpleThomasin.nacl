@@ -1,0 +1,22 @@
+type dummy.ThinPurpleThomasin {
+  annotations {
+    number DevelopedSilverQuintina {
+    }
+    dummy.SunnyScarletGayle ChiefTanRenell {
+    }
+    dummy.RedPeachFaunie MassSalmonJenine {
+    }
+    boolean UpperTomatoShelley {
+    }
+    serviceid SunnyPinkAnnemarie {
+    }
+  }
+  string CompactCrimsonPhebe {
+  }
+  DevelopedSilverQuintina = 880
+  ChiefTanRenell = false
+  MassSalmonJenine = file("HarshIvoryKirbee.txt")
+  UpperTomatoShelley = false
+  SunnyPinkAnnemarie = "How come the stadium got hot after the game? Because all of the fans left."
+  _hidden_value = true
+}

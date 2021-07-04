@@ -1,0 +1,66 @@
+type dummy.CertainRedLynelle {
+  annotations {
+    number ConfusedOrangeMeg {
+    }
+    json FundamentalPeachMargi {
+    }
+    serviceid PanickyHarlequinValina {
+    }
+    number LatePinkTabby {
+    }
+    boolean FrightenedIvoryPearl {
+    }
+    dummy.SoundScarletInga ImpressedBlackNellie {
+    }
+    json UniqueYellowReba {
+    }
+    dummy.ConcretePurpleLuise WeirdGoldGabbie {
+    }
+    dummy.MassOliveDore RainyMagentaAngelia {
+    }
+    json WetIndigoFreida {
+    }
+    json OverallAmaranthBamby {
+    }
+    json LoudSalmonDulciana {
+    }
+    json ConvenientIndigoStaci {
+    }
+    dummy.NiceAmethystZahara RoundAquamarineGinevra {
+    }
+    serviceid VividPinkDeb {
+    }
+    dummy.RealAmethystFawne PartialAzureSusanne {
+    }
+    boolean NervousSilverJoelynn {
+    }
+    dummy.NiceAmethystZahara ChiefApricotDynah {
+    }
+    dummy.MerePurplePaolina TallJadeIngeborg {
+    }
+    string HilariousOliveAinsley {
+    }
+    boolean OrdinaryGreenJana {
+    }
+  }
+  ConfusedOrangeMeg = 500
+  FundamentalPeachMargi = "Did you know that protons have mass? I didn't even know they were catholic."
+  PanickyHarlequinValina = "Chances are if you' ve seen one shopping center, you've seen a mall."
+  LatePinkTabby = 746
+  FrightenedIvoryPearl = true
+  ImpressedBlackNellie = file("ElderlyBronzeAlbertina.txt")
+  UniqueYellowReba = "To be Frank, I'd have to change my name."
+  WeirdGoldGabbie = false
+  WetIndigoFreida = "I thought my wife was joking when she said she'd leave me if I didn't stop signing \"I'm A Believer\"... Then I saw her face."
+  OverallAmaranthBamby = "Why do birds fly south for the winter? Because it's too far to walk."
+  LoudSalmonDulciana = "Slept like a log last night  woke up in the fireplace."
+  ConvenientIndigoStaci = "What is a centipedes's favorite Beatle song?  I want to hold your hand, hand, hand, hand..."
+  RoundAquamarineGinevra = false
+  VividPinkDeb = "Why was it called the dark ages? Because of all the knights. "
+  PartialAzureSusanne = file("RapidScarletEthelyn.txt")
+  NervousSilverJoelynn = true
+  ChiefApricotDynah = false
+  TallJadeIngeborg = 999
+  HilariousOliveAinsley = "What did the father tomato say to the baby tomato whilst on a family walk? Ketchup."
+  OrdinaryGreenJana = false
+}

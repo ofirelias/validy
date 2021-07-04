@@ -1,0 +1,21 @@
+type dummy.IrrelevantPurpleJaquenette {
+  annotations {
+    dummy.CompetitiveMaroonAurie UniformGoldDaniele {
+    }
+    dummy.DefensiveAquamarineGeorgiana NovelScarletCindy {
+    }
+    string GreatGreenAme {
+    }
+    number AmateurMoccasinLorri {
+    }
+    dummy.ChangingCrimsonOlivie RichBeigeCarolann {
+    }
+  }
+  serviceid ValidSilverMaud {
+  }
+  NovelScarletCindy = 256
+  GreatGreenAme = "Why did the kid cross the playground? To get to the other slide."
+  AmateurMoccasinLorri = 229
+  RichBeigeCarolann = false
+  _hidden_value = true
+}

@@ -1,0 +1,30 @@
+type dummy.PoliteJadeMarybeth {
+  annotations {
+    json MightyPinkJesse {
+    }
+    boolean ChemicalAmethystVin {
+    }
+    json SolarIndigoAvie {
+    }
+    dummy.SoundScarletInga KindBeigeCilka {
+    }
+    boolean ChineseIvoryDevinne {
+    }
+    serviceid QualifiedBlackMarcela {
+    }
+  }
+  dummy.BrightAquaAnthia WetMoccasinMarya {
+    RelievedTanDix = 268
+    DangerousApricotJackelyn = false
+    StrangeSapphireDulcie = "Slept like a log last night  woke up in the fireplace."
+    PresidentialTomatoJulianna = 673
+    HealthyBlueShell = false
+  }
+  MightyPinkJesse = "Why is Peter Pan always flying? Because he Neverlands."
+  ChemicalAmethystVin = true
+  SolarIndigoAvie = "Whoever invented the knock-knock joke should get a no bell prize."
+  KindBeigeCilka = file("EnglishRoseMeredithe.txt")
+  ChineseIvoryDevinne = true
+  QualifiedBlackMarcela = "Why was it called the dark ages? Because of all the knights. "
+  _hidden_value = true
+}

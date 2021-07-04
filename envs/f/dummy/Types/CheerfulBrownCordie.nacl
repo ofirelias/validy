@@ -1,0 +1,77 @@
+type dummy.CheerfulBrownCordie {
+  annotations {
+    serviceid WellTanMellie {
+    }
+    boolean FlakyAmberHarmony {
+    }
+    json IrrelevantIndigoMadelene {
+    }
+    json SubjectiveLimeRennie {
+    }
+    dummy.RealAmethystFawne HorriblePlumVanny {
+    }
+  }
+  dummy.RespectableGreenGarland EquivalentAmaranthLeia {
+    BlushingOrangeRonalda = false
+    SexualAmethystMaegan = 250
+    EvolutionaryBlackPavia = false
+    AmusedTurquoiseFania = 895
+    VisibleBlushKettie = false
+    VariousAquaRaphaela = true
+  }
+  string VivaciousAquamarineCaro {
+  }
+  boolean VastJadeGrissel {
+  }
+  number CombativeFuchsiaTillie {
+  }
+  json ConsciousPurpleFlore {
+  }
+  number MarginalGreenDory {
+  }
+  boolean MildPeachAlverta {
+  }
+  dummy.HandsomeMaroonRyann ActiveJadeLucinda {
+    ParentalScarletMellisent = 482
+    HiddenAmberShauna = false
+    BoilingRoseMureil = true
+    DryGreenMalina = "What do you call two barracuda fish?  A Pairacuda!"
+    MassiveHarlequinTaffy = {
+      legit = "Why is Peter Pan always flying? Because he Neverlands."
+    }
+    InterestingCopperDarcey = 319
+    PrettyIvoryCorina = 28
+    SmilingSalmonAustin = "I knew I shouldn't steal a mixer from work, but it was a whisk I was willing to take."
+    RenewedOrangeJillana = true
+    MinisterialRoseDusty = true
+    MechanicalRoseLaverna = 631
+  }
+  serviceid WeakSalmonGeorgeta {
+  }
+  "List<string>" UglyBeigeGabey {
+  }
+  serviceid SafeAquaMarne {
+  }
+  boolean EnergeticAquamarineKassia {
+  }
+  string FancyApricotCris {
+  }
+  serviceid LowGoldMeris {
+  }
+  dummy.RealCopperAbbi ResonantOliveKitti {
+    SharedBlushInes = "Im only familiar with 25 letters in the English language. I dont know why."
+    AcceptedSalmonTheda = 356
+    AsleepAmberTrudey = false
+    DramaticPurpleBrit = 252
+  }
+  serviceid LostGreenChristin {
+  }
+  serviceid OralYellowBlondell {
+  }
+  WellTanMellie = "Why does a Moon-rock taste better than an Earth-rock? Because it's a little meteor."
+  FlakyAmberHarmony = false
+  IrrelevantIndigoMadelene = "What do you call two barracuda fish?  A Pairacuda!"
+  SubjectiveLimeRennie = "Im only familiar with 25 letters in the English language. I dont know why."
+  HorriblePlumVanny = file("SocialistChocolateLynde.txt")
+  _hidden_value = true
+}

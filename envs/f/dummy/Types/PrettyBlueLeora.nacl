@@ -1,0 +1,117 @@
+type dummy.PrettyBlueLeora {
+  annotations {
+    dummy.CreativeScarletSerene TestyAquamarineAlejandrina {
+    }
+    string SillyApricotEtti {
+    }
+    json StrangeCrimsonJemmy {
+    }
+    boolean FascinatingCoffeeCourtney {
+    }
+    dummy.TheoreticalChocolateKary HeadVioletNeala {
+    }
+    serviceid ScreechingHarlequinHenrietta {
+    }
+  }
+  "List<json>" ShallowYellowKacy {
+  }
+  dummy.MisleadingFuchsiaIngrid AmbitiousBlueAdan {
+    MuteHarlequinCoralie = file("HelpfulGrayTabbi.txt")
+    WearyHarlequinMagdaia = file("AbundantMoccasinAstrix.txt")
+    BiologicalMaroonDiena = file("HotSilverChere.txt")
+    AdequateBlueFianna = file("JuicyFuchsiaCecile.txt")
+    SelectedTealDonni = "What do you do on a remote island? Try and find the TV island it belongs to."
+    ForwardSalmonOlympie = "Why didnt the skeleton cross the road? Because he had no guts."
+    WeirdEmeraldPhyllys = false
+    StupidAquaNatalee = "What do you call two barracuda fish?  A Pairacuda!"
+    ManyMaroonBettine = "My first time using an elevator was an uplifting experience. The second time let me down."
+    CrudeChocolateMeris = "Why do birds fly south for the winter? Because it's too far to walk."
+    DelightfulCopperLavena = "I'll tell you what often gets over looked... garden fences."
+  }
+  number WesternMoccasinDaile {
+  }
+  json AbleGreenMax {
+  }
+  number FatOrangeDonielle {
+  }
+  dummy.NervousLimeFina WearyFuchsiaMaddi {
+    IdenticalBronzeRori = "What do you do on a remote island? Try and find the TV island it belongs to."
+    GloriousBlushCosetta = file("FormalBlackOrly.txt")
+  }
+  string ScaryOliveJessy {
+  }
+  number SadVioletEvita {
+  }
+  dummy.PsychiatricBrownEmmalynn WeakAquaJoanna {
+    JustBlackDareen = 714
+    LivelyPurpleCaye = "Slept like a log last night  woke up in the fireplace."
+    RedundantIndigoCrystie = 612
+    NegativeBlushKatherina = 114
+    AdverseGrayNicola = "How come the stadium got hot after the game? Because all of the fans left."
+  }
+  boolean AwareBronzeBenetta {
+  }
+  boolean InformalBlackEmilee {
+  }
+  number RapidCrimsonLeilah {
+  }
+  dummy.TheoreticalChocolateKary ParentalGrayWilla {
+    InappropriateVioletBrandais = 592
+    SkilledCopperVivianne = "I thought my wife was joking when she said she'd leave me if I didn't stop signing \"I'm A Believer\"... Then I saw her face."
+  }
+  json FuzzyVioletZora {
+  }
+  json SelectiveLimeDebee {
+  }
+  boolean IntensiveMagentaGene {
+  }
+  dummy.RealAmethystFawne SpectacularScarletMaurise {
+    TotalTealFederica = true
+    PsychologicalLavenderOdelinda = "A steak pun is a rare medium well done."
+    OldCrimsonDaloris = {
+      legit = "Did you hear the joke about the wandering nun? She was a roman catholic."
+    }
+    DisgustedTanKarlotta = 723
+    DailyMagentaEmyle = file("WildVioletOrtensia.txt")
+    ElectronicCrimsonGusella = "Why was it called the dark ages? Because of all the knights. "
+    BizarrePlumKala = "What did the father tomato say to the baby tomato whilst on a family walk? Ketchup."
+    GoodAquaChelsae = file("NastyAquamarineCindelyn.txt")
+    GivenPinkJanet = "I'll tell you what often gets over looked... garden fences."
+    RareOliveRebeka = "Dad Im hungry  Hi hungry Im dad"
+    BetterAquamarineGuendolen = "Why was it called the dark ages? Because of all the knights. "
+    TrickyGreenAllene = false
+    JustMaroonOlympie = "What do you do on a remote island? Try and find the TV island it belongs to."
+    AwfulBrownMyrtia = "A steak pun is a rare medium well done."
+  }
+  number InterestedOrangeLeshia {
+  }
+  number OrangeSilverAlbina {
+  }
+  number HugeSalmonKorney {
+  }
+  dummy.DefensiveAquamarineGeorgiana AmbitiousBlushLeigha {
+    CoolAquaJacquie = "Slept like a log last night  woke up in the fireplace."
+    MinimalAquaBlondell = 253
+    AwareAquaLucine = "Why was it called the dark ages? Because of all the knights. "
+    LesserGoldDorrie = true
+    ViolentMagentaLeyla = 212
+    YoungRedBelvia = true
+    ActualScarletJoannes = false
+    CurlyAmethystEricha = "I knew I shouldn't steal a mixer from work, but it was a whisk I was willing to take."
+    WildApricotRobbie = false
+    KindCoffeeDorri = "Im only familiar with 25 letters in the English language. I dont know why."
+    EventualBlueBill = "Chances are if you' ve seen one shopping center, you've seen a mall."
+    GreasyCrimsonAndria = "Why was it called the dark ages? Because of all the knights. "
+    ShortHarlequinFernanda = "Why was it called the dark ages? Because of all the knights. "
+    JuniorRoseGillian = "I'm tired of following my dreams. I'm just going to ask them where they are going and meet up with them later."
+  }
+  json GrowingOliveChristel {
+  }
+  TestyAquamarineAlejandrina = 940
+  SillyApricotEtti = "Chances are if you' ve seen one shopping center, you've seen a mall."
+  StrangeCrimsonJemmy = "To be Frank, I'd have to change my name."
+  FascinatingCoffeeCourtney = false
+  HeadVioletNeala = true
+  ScreechingHarlequinHenrietta = "Did you know that protons have mass? I didn't even know they were catholic."
+  _hidden_value = true
+}

@@ -1,0 +1,60 @@
+type dummy.UnemployedBlueAthene {
+  annotations {
+    dummy.ShyLimeTobey ImplicitApricotPhaedra {
+    }
+    dummy.AppropriateRedAdey BitterMoccasinAnthe {
+    }
+    dummy.RealAmethystFawne AgreedPeachLoutitia {
+    }
+    serviceid AwareSilverLauryn {
+    }
+    string NotableOliveMadelina {
+    }
+    dummy.RealAmethystFawne ThoughtfulOrangeYettie {
+    }
+    dummy.RealAmethystFawne ChiefFuchsiaEolande {
+    }
+    number TerribleIvoryEnriqueta {
+    }
+    string AnxiousYellowHoney {
+    }
+    dummy.ResidentialAzureAubry DevotedGreenAlix {
+    }
+    number WeakPinkNicolette {
+    }
+    number TiredBrownEulalie {
+    }
+    string ConventionalMoccasinDianne {
+    }
+    serviceid SadAmethystJustine {
+    }
+    boolean TenderBeigeGussi {
+    }
+    serviceid BitterHarlequinRozamond {
+    }
+    string DeterminedIvoryIdette {
+    }
+    dummy.MerePurplePaolina PreferredBlushGloriane {
+    }
+    number ShallowPinkClarisse {
+    }
+  }
+  ImplicitApricotPhaedra = true
+  AgreedPeachLoutitia = file("FairAquamarineBethanne.txt")
+  AwareSilverLauryn = "What did one nut say as he chased another nut?  I'm a cashew!"
+  NotableOliveMadelina = "Why did the kid cross the playground? To get to the other slide."
+  ThoughtfulOrangeYettie = file("RobustCoffeeBlakeley.txt")
+  ChiefFuchsiaEolande = file("SeniorSilverIona.txt")
+  TerribleIvoryEnriqueta = 541
+  AnxiousYellowHoney = "What do you call two barracuda fish?  A Pairacuda!"
+  DevotedGreenAlix = file("StupidGreenTory.txt")
+  WeakPinkNicolette = 184
+  TiredBrownEulalie = 650
+  ConventionalMoccasinDianne = "Why did the tomato blush? Because it saw the salad dressing."
+  SadAmethystJustine = "Why did the tomato blush? Because it saw the salad dressing."
+  TenderBeigeGussi = true
+  BitterHarlequinRozamond = "A steak pun is a rare medium well done."
+  DeterminedIvoryIdette = "Chances are if you' ve seen one shopping center, you've seen a mall."
+  PreferredBlushGloriane = 856
+  ShallowPinkClarisse = 670
+}

@@ -1,0 +1,29 @@
+type dummy.PoorBeigeNady {
+  annotations {
+    dummy.VictoriousHarlequinDebbie RequiredPurpleWilma {
+    }
+    dummy.SunnyScarletGayle FixedJadeMeridith {
+    }
+    dummy.TropicalScarletCora AdequateOliveDorette {
+    }
+    serviceid FunnyAmethystRegina {
+    }
+    json PriorSapphireHyacintha {
+    }
+    dummy.DefensiveAquamarineGeorgiana WeakPeachRomola {
+    }
+  }
+  number DizzyAmberRobbyn {
+  }
+  json AshamedAzureIssi {
+  }
+  boolean PunyLavenderSarena {
+  }
+  RequiredPurpleWilma = false
+  FixedJadeMeridith = true
+  AdequateOliveDorette = file("OverseasMoccasinKakalina.txt")
+  FunnyAmethystRegina = "To be Frank, I'd have to change my name."
+  PriorSapphireHyacintha = "My first time using an elevator was an uplifting experience. The second time let me down."
+  WeakPeachRomola = 982
+  _hidden_value = true
+}

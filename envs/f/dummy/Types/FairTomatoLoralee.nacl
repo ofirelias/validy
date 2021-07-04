@@ -1,0 +1,41 @@
+type dummy.FairTomatoLoralee {
+  annotations {
+    string ArtificialSalmonLizzy {
+    }
+    string UncomfortableGrayCammy {
+    }
+    number DesperateEmeraldValencia {
+    }
+    dummy.PsychiatricBrownEmmalynn SpecificVioletElianore {
+    }
+    dummy.DeafeningSapphireHulda EntireChocolateGracie {
+    }
+  }
+  dummy.LoyalAquaMarylin AdvisoryAzureMichele {
+    NarrowTomatoDorey = file("MinorPinkPaulie.txt")
+    IndianTurquoiseLucille = "Why didnt the skeleton cross the road? Because he had no guts."
+    PassingScarletCassondra = "Did you hear the joke about the wandering nun? She was a roman catholic."
+    LooseTomatoNikolia = 937
+    AtomicSilverKaroly = file("HotGrayMarrissa.txt")
+    WetBrownSibeal = 349
+    EqualRoseDottie = "I thought my wife was joking when she said she'd leave me if I didn't stop signing \"I'm A Believer\"... Then I saw her face."
+    ConcernedOrangeAnya = 961
+    PayableCoralDasya = false
+    SunnyHarlequinLiza = file("GreatTealMaire.txt")
+    ScreechingTomatoEmlynn = 121
+    MuteJadeKarna = file("BoredMaroonKlarrisa.txt")
+    StupidCoffeeBenni = "Did you hear the joke about the wandering nun? She was a roman catholic."
+    ComplexOrangeTrish = {
+      legit = "My first time using an elevator was an uplifting experience. The second time let me down."
+    }
+    ConsistentSapphireEbony = "I'll tell you what often gets over looked... garden fences."
+    DryVioletMadlen = file("CoolIvoryAllie.txt")
+    UsefulHarlequinTove = file("NeatTomatoCordie.txt")
+  }
+  ArtificialSalmonLizzy = "I knew I shouldn't steal a mixer from work, but it was a whisk I was willing to take."
+  UncomfortableGrayCammy = "Chances are if you' ve seen one shopping center, you've seen a mall."
+  DesperateEmeraldValencia = 606
+  SpecificVioletElianore = file("DearBrownArdeen.txt")
+  EntireChocolateGracie = true
+  _hidden_value = true
+}

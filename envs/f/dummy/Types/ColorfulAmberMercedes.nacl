@@ -1,0 +1,66 @@
+type dummy.ColorfulAmberMercedes {
+  annotations {
+    json ElectricalMaroonPenelope {
+    }
+    dummy.DifficultTurquoiseMaible FullCyanRaphaela {
+    }
+    dummy.ChangingCrimsonOlivie MagnificentCyanTiena {
+    }
+    dummy.ModernBlueErna RecentAmethystNelle {
+    }
+    dummy.TropicalScarletCora PricklyEmeraldDonnie {
+    }
+    dummy.TropicalScarletCora ContinuousSapphireGeneva {
+    }
+  }
+  number OddPinkAnnecorinne {
+  }
+  dummy.InevitableAmethystKlarika NativeCoffeeKarrie {
+    ForeignSapphireCeleste = true
+    SeparateCoralLeone = "A steak pun is a rare medium well done."
+    SolidPinkDiana = false
+  }
+  boolean IndependentAquamarineNora {
+  }
+  json BlushingFuchsiaGabi {
+  }
+  serviceid DigitalSilverJoanna {
+  }
+  dummy.InevitableAmethystKlarika InnerAmberChristalle {
+    ForeignSapphireCeleste = false
+    SeparateCoralLeone = "Why was it called the dark ages? Because of all the knights. "
+    SolidPinkDiana = true
+  }
+  number DryVioletMirna {
+  }
+  boolean BriefIndigoRea {
+  }
+  boolean NewAquamarineCody {
+  }
+  dummy.HandsomeMaroonRyann AwfulApricotBria {
+    ParentalScarletMellisent = 694
+    HiddenAmberShauna = false
+    BoilingRoseMureil = true
+    DryGreenMalina = "I was fired from the keyboard factory yesterday.  I wasn't putting in enough shifts."
+    MassiveHarlequinTaffy = {
+      legit = "What did one nut say as he chased another nut?  I'm a cashew!"
+    }
+    InterestingCopperDarcey = 589
+    PrettyIvoryCorina = 311
+    SmilingSalmonAustin = "What creature is smarter than a talking parrot? A spelling bee."
+    RenewedOrangeJillana = false
+    MinisterialRoseDusty = true
+    MechanicalRoseLaverna = 105
+  }
+  dummy.CreativeScarletSerene AcuteGoldRaquel {
+    FutureCoralKamilah = "Why does a Moon-rock taste better than an Earth-rock? Because it's a little meteor."
+    LivingWhiteRosie = false
+    ConstitutionalCoralMarisa = 27
+  }
+  ElectricalMaroonPenelope = "What did one nut say as he chased another nut?  I'm a cashew!"
+  FullCyanRaphaela = false
+  MagnificentCyanTiena = true
+  PricklyEmeraldDonnie = file("FondBeigeJany.txt")
+  ContinuousSapphireGeneva = file("DominantApricotRanique.txt")
+  _hidden_value = true
+}

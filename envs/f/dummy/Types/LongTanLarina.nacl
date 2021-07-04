@@ -1,0 +1,37 @@
+type dummy.LongTanLarina {
+  annotations {
+    dummy.RemoteVioletZuzana LuckyMagentaMariana {
+    }
+    dummy.RespectableGreenGarland CompactSalmonAdrian {
+    }
+    number WidespreadRoseKathlin {
+    }
+    dummy.RedPeachFaunie DisciplinaryIndigoWilhelmine {
+    }
+    string HungryFuchsiaNovelia {
+    }
+    dummy.ValuableRedDeeann NewJadePrudi {
+    }
+  }
+  dummy.RedPeachFaunie TastyMaroonVanessa {
+    UnderlyingGreenHatty = "Why did the tomato blush? Because it saw the salad dressing."
+    ColossalLavenderMurial = "Why was it called the dark ages? Because of all the knights. "
+    StickyRedJudith = "Why do birds fly south for the winter? Because it's too far to walk."
+    AggressiveGreenLura = file("PregnantAquamarineKari.txt")
+    SlowCoffeeBernice = {
+      legit = '''
+My first time using an elevator was an uplifting experience. The second time let me down.
+Whoever invented the knock-knock joke should get a no bell prize.
+What do you do on a remote island? Try and find the TV island it belongs to.
+'''
+    }
+    AngryRoseRowena = 683
+    FatAquamarineMyrah = "Did you hear the joke about the wandering nun? She was a roman catholic."
+    TastelessCrimsonCandra = "Why did the kid cross the playground? To get to the other slide."
+  }
+  WidespreadRoseKathlin = 299
+  DisciplinaryIndigoWilhelmine = file("RelievedBlueTootsie.txt")
+  HungryFuchsiaNovelia = "Why is Peter Pan always flying? Because he Neverlands."
+  NewJadePrudi = true
+  _hidden_value = true
+}

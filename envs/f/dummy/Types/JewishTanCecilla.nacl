@@ -1,0 +1,31 @@
+type dummy.JewishTanCecilla {
+  annotations {
+    dummy.HandsomeMaroonRyann RainyEmeraldAlica {
+    }
+    boolean DizzyPlumEve {
+    }
+    dummy.CreativeScarletSerene FormalBlackDanni {
+    }
+    number PowerfulTurquoiseSonnnie {
+    }
+    dummy.MerePurplePaolina CheapTealMeg {
+    }
+    dummy.RealAmethystFawne QuickBlackLeandra {
+    }
+    json UrgentCoralReena {
+    }
+  }
+  dummy.InevitableAmethystKlarika SplendidMoccasinKaree {
+    ForeignSapphireCeleste = false
+    SeparateCoralLeone = "I'm tired of following my dreams. I'm just going to ask them where they are going and meet up with them later."
+    SolidPinkDiana = true
+  }
+  RainyEmeraldAlica = file("StiffMoccasinModestia.txt")
+  DizzyPlumEve = false
+  FormalBlackDanni = 269
+  PowerfulTurquoiseSonnnie = 232
+  CheapTealMeg = 134
+  QuickBlackLeandra = file("RattyMagentaLainey.txt")
+  UrgentCoralReena = "I was fired from the keyboard factory yesterday.  I wasn't putting in enough shifts."
+  _hidden_value = true
+}

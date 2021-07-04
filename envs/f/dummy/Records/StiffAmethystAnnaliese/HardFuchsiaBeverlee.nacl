@@ -1,0 +1,22 @@
+dummy.StiffAmethystAnnaliese HardFuchsiaBeverlee {
+  ColourfulGreenDulce = false
+  DisgustedMagentaBilly = "Why did the tomato blush? Because it saw the salad dressing."
+  OutrageousSalmonKiley = {
+    AmericanTanAlejandra = "My first time using an elevator was an uplifting experience. The second time let me down."
+  }
+  UnknownCyanLayney = "I was fired from the keyboard factory yesterday.  I wasn't putting in enough shifts."
+  LoudTomatoImogen = 801
+  SquareLavenderAnnie = 998
+  MisleadingSalmonCatharina = {
+    VariedTurquoiseDarcey = true
+    RudeBlackMallissa = file("LuckyGrayNicolea.txt")
+    RoundSilverElane = file("ThunderingCrimsonCharmine.txt")
+    SoundMagentaTorie = "What did one nut say as he chased another nut?  I'm a cashew!"
+    LittleChocolateLanita = 553
+    ThoroughGreenMarney = file("UnacceptablePinkBliss.txt")
+    AncientCoralClary = "I thought my wife was joking when she said she'd leave me if I didn't stop signing \"I'm A Believer\"... Then I saw her face."
+    FunPeachClaude = "I'll tell you what often gets over looked... garden fences."
+  }
+  NormalSalmonJocelyne = file("TechnologicalTanClary.txt")
+  _parent = dummy.ColonialSalmonChristian
+}

@@ -1,0 +1,63 @@
+type dummy.VoicelessAmaranthEmera {
+  annotations {
+    boolean ConventionalApricotMaisie {
+    }
+    number ProudPeachFania {
+    }
+    json AdvisoryApricotCheri {
+    }
+    serviceid ContinuousBeigeFreddy {
+    }
+    json JudicialOliveMaribeth {
+    }
+    serviceid ImpossibleSalmonAinslee {
+    }
+    number MiddleIvoryMyrtice {
+    }
+    string UptightTanAlexine {
+    }
+    string HelpfulFuchsiaBee {
+    }
+    string OldCrimsonIlka {
+    }
+    boolean PinkAquamarineKimmie {
+    }
+    dummy.MisleadingFuchsiaIngrid RoyalAmberWandie {
+    }
+    string SophisticatedAquamarineGretta {
+    }
+    dummy.ConcretePurpleLuise RomanCrimsonMarlyn {
+    }
+    number TiredBlushKiele {
+    }
+    dummy.StupidCoralBarbe AutonomousIndigoAnalise {
+    }
+    number AggressiveSalmonCollette {
+    }
+    json RoastedYellowMoll {
+    }
+    number UnusualOrangeCarlita {
+    }
+    dummy.MisleadingFuchsiaIngrid EstimatedMagentaLaurene {
+    }
+  }
+  ConventionalApricotMaisie = true
+  ProudPeachFania = 138
+  AdvisoryApricotCheri = "I thought my wife was joking when she said she'd leave me if I didn't stop signing \"I'm A Believer\"... Then I saw her face."
+  ContinuousBeigeFreddy = "Why did the kid cross the playground? To get to the other slide."
+  JudicialOliveMaribeth = "My first time using an elevator was an uplifting experience. The second time let me down."
+  ImpossibleSalmonAinslee = "What is a centipedes's favorite Beatle song?  I want to hold your hand, hand, hand, hand..."
+  MiddleIvoryMyrtice = 46
+  UptightTanAlexine = "I thought my wife was joking when she said she'd leave me if I didn't stop signing \"I'm A Believer\"... Then I saw her face."
+  HelpfulFuchsiaBee = "Why does a Moon-rock taste better than an Earth-rock? Because it's a little meteor."
+  OldCrimsonIlka = "A steak pun is a rare medium well done."
+  PinkAquamarineKimmie = true
+  RoyalAmberWandie = file("RepresentativeAzurePetrina.txt")
+  SophisticatedAquamarineGretta = "What did one nut say as he chased another nut?  I'm a cashew!"
+  RomanCrimsonMarlyn = true
+  TiredBlushKiele = 977
+  AggressiveSalmonCollette = 352
+  RoastedYellowMoll = "Dad Im hungry  Hi hungry Im dad"
+  UnusualOrangeCarlita = 253
+  EstimatedMagentaLaurene = file("ScottishBrownNicoli.txt")
+}

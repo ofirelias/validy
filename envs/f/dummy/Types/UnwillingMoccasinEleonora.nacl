@@ -1,0 +1,55 @@
+type dummy.UnwillingMoccasinEleonora is string {
+  annotations {
+    number ConvenientTomatoBette {
+    }
+    number SteadyBronzeGussie {
+    }
+    json MammothMaroonAnalise {
+    }
+    string FutureYellowDorene {
+    }
+    serviceid CostlyBlushBenny {
+    }
+    number ReliableEmeraldAlejandrina {
+    }
+    string MassWhiteCaryl {
+    }
+    string ZanyCopperNeila {
+    }
+    serviceid TiredMoccasinAbagael {
+    }
+    serviceid WonderfulSapphireElmira {
+    }
+    number ConfusedRoseDredi {
+    }
+    number PoorAmethystSamara {
+    }
+    boolean MuteWhiteMinda {
+    }
+    string HighEmeraldAura {
+    }
+    string HealthyMagentaPetronilla {
+    }
+    number CondemnedHarlequinOpal {
+    }
+    serviceid RelievedFuchsiaDaisie {
+    }
+  }
+  ConvenientTomatoBette = 518
+  SteadyBronzeGussie = 303
+  MammothMaroonAnalise = "I'll tell you what often gets over looked... garden fences."
+  FutureYellowDorene = "What creature is smarter than a talking parrot? A spelling bee."
+  CostlyBlushBenny = "Why does a Moon-rock taste better than an Earth-rock? Because it's a little meteor."
+  ReliableEmeraldAlejandrina = 17
+  MassWhiteCaryl = "Why did the kid cross the playground? To get to the other slide."
+  ZanyCopperNeila = "What do you call two barracuda fish?  A Pairacuda!"
+  TiredMoccasinAbagael = "What creature is smarter than a talking parrot? A spelling bee."
+  WonderfulSapphireElmira = "Did you know that protons have mass? I didn't even know they were catholic."
+  ConfusedRoseDredi = 937
+  PoorAmethystSamara = 528
+  MuteWhiteMinda = false
+  HighEmeraldAura = "What is a centipedes's favorite Beatle song?  I want to hold your hand, hand, hand, hand..."
+  HealthyMagentaPetronilla = "What do you do on a remote island? Try and find the TV island it belongs to."
+  CondemnedHarlequinOpal = 923
+  RelievedFuchsiaDaisie = "What is a centipedes's favorite Beatle song?  I want to hold your hand, hand, hand, hand..."
+}

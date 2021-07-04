@@ -1,0 +1,27 @@
+type dummy.MerePurplePaolina is number {
+  annotations {
+    dummy.HandsomeMaroonRyann SquareIvoryHedy {
+    }
+    boolean DetailedJadeDorotea {
+    }
+    dummy.DangerousGoldShannen ExcitedSilverStephi {
+    }
+    dummy.RedPeachFaunie CharmingVioletRoselle {
+    }
+    dummy.DEFAULT DefensivePlumSaraann {
+    }
+    dummy.NiceAmethystZahara DarkBlueSam {
+    }
+    json NotableTealAvie {
+    }
+  }
+  SquareIvoryHedy = file("LesserBronzeRosalyn.txt")
+  DetailedJadeDorotea = true
+  ExcitedSilverStephi = false
+  CharmingVioletRoselle = file("RarePeachThomasine.txt")
+  DefensivePlumSaraann = {
+    legit = "Dad Im hungry  Hi hungry Im dad"
+  }
+  DarkBlueSam = false
+  NotableTealAvie = "Im only familiar with 25 letters in the English language. I dont know why."
+}

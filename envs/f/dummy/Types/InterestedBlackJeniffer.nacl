@@ -1,0 +1,59 @@
+type dummy.InterestedBlackJeniffer {
+  annotations {
+    dummy.NaughtyHarlequinGertie FavouriteLavenderKarissa {
+    }
+    json DisappointedSalmonJuana {
+    }
+    serviceid OfficialBlueDaniele {
+    }
+    string LateBlushMarquita {
+    }
+    string FastScarletTildi {
+    }
+    string AncientBeigeAurie {
+    }
+    dummy.RespectableGreenGarland OnlyCoffeeNatala {
+    }
+  }
+  json InadequateBlushDorey {
+  }
+  dummy.SafeScarletMarguerite HumanApricotOrsa {
+    IdeologicalBeigeHephzibah = 35
+    CleverWhiteBrinna = file("BlondePlumJeane.txt")
+    ModestPurplePrudence = "What did the father tomato say to the baby tomato whilst on a family walk? Ketchup."
+    RetiredYellowDianemarie = true
+    GreatBlushAlikee = 327
+    GrandPinkAdelheid = file("CircularCopperSibby.txt")
+    SevereTanPerry = "Did you know that protons have mass? I didn't even know they were catholic."
+    VitalMagentaRayna = "What did one nut say as he chased another nut?  I'm a cashew!"
+    EntitledPurpleGena = "Why did the kid cross the playground? To get to the other slide."
+  }
+  dummy.TropicalScarletCora WorkingFuchsiaColly {
+    NastyYellowCary = "Dad Im hungry  Hi hungry Im dad"
+    RecentApricotCorly = file("UninterestedAquaCelinka.txt")
+    CentralBlushRianon = 132
+    BigIvoryLianna = 40
+    AccessibleAquamarineDorthy = true
+    SuperiorScarletEmilia = "Did you hear about the guy whose whole left side was cut off? He's all right now."
+    EqualTurquoiseCourtnay = file("ExcessSapphireDionis.txt")
+    BoredBronzeHilda = true
+    MassEmeraldAnita = "Why do birds fly south for the winter? Because it's too far to walk."
+    ClassicalMaroonMarget = 887
+    PetiteAquamarineJodi = true
+    ChillyCyanElysee = 966
+    PrintedTomatoAleen = "I'll tell you what often gets over looked... garden fences."
+    HomelessMaroonGerri = "Why didnt the skeleton cross the road? Because he had no guts."
+    OccupationalPlumKailey = "What did the father tomato say to the baby tomato whilst on a family walk? Ketchup."
+  }
+  boolean RespectivePurpleSasha {
+  }
+  boolean ProudGrayBonnibelle {
+  }
+  FavouriteLavenderKarissa = false
+  DisappointedSalmonJuana = "What do you call two barracuda fish?  A Pairacuda!"
+  OfficialBlueDaniele = "I knew I shouldn't steal a mixer from work, but it was a whisk I was willing to take."
+  LateBlushMarquita = "What is a centipedes's favorite Beatle song?  I want to hold your hand, hand, hand, hand..."
+  FastScarletTildi = "I knew I shouldn't steal a mixer from work, but it was a whisk I was willing to take."
+  AncientBeigeAurie = "Why did the kid cross the playground? To get to the other slide."
+  _hidden_value = true
+}

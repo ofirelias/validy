@@ -1,0 +1,60 @@
+type dummy.MightyMagentaMaible {
+  annotations {
+    dummy.DefensiveAquamarineGeorgiana RainyWhiteAnnecorinne {
+    }
+    boolean SystematicPeachCoretta {
+    }
+    dummy.UnwillingMoccasinEleonora AggregateAmberKatine {
+    }
+    serviceid SpottyBeigeJacqui {
+    }
+    dummy.PsychiatricBrownEmmalynn SurvivingEmeraldAbbie {
+    }
+    string GlobalSapphireLisha {
+    }
+  }
+  boolean PersonalEmeraldKarylin {
+  }
+  serviceid FairIvoryFernande {
+  }
+  serviceid TallOliveDee {
+  }
+  dummy.HandsomeMaroonRyann HushedCyanPaule {
+    ParentalScarletMellisent = 172
+    HiddenAmberShauna = false
+    BoilingRoseMureil = true
+    DryGreenMalina = "Whoever invented the knock-knock joke should get a no bell prize."
+    MassiveHarlequinTaffy = {
+      legit = "Why did the tomato blush? Because it saw the salad dressing."
+    }
+    InterestingCopperDarcey = 867
+    PrettyIvoryCorina = 711
+    SmilingSalmonAustin = "Why did the kid cross the playground? To get to the other slide."
+    RenewedOrangeJillana = true
+    MinisterialRoseDusty = true
+    MechanicalRoseLaverna = 985
+  }
+  serviceid SecureHarlequinLindy {
+  }
+  dummy.TheoreticalChocolateKary BindingBluePamella {
+    InappropriateVioletBrandais = 445
+    SkilledCopperVivianne = "I knew I shouldn't steal a mixer from work, but it was a whisk I was willing to take."
+  }
+  number ElectricPinkSharline {
+  }
+  boolean DeterminedRoseMarianna {
+  }
+  string ElectoralRedNonna {
+  }
+  dummy.TheoreticalChocolateKary RedundantAmaranthAriel {
+    InappropriateVioletBrandais = 398
+    SkilledCopperVivianne = "I'll tell you what often gets over looked... garden fences."
+  }
+  RainyWhiteAnnecorinne = 72
+  SystematicPeachCoretta = true
+  AggregateAmberKatine = file("AdditionalJadeVeda.txt")
+  SpottyBeigeJacqui = "My first time using an elevator was an uplifting experience. The second time let me down."
+  SurvivingEmeraldAbbie = file("InquisitiveCopperIvy.txt")
+  GlobalSapphireLisha = "What do you call two barracuda fish?  A Pairacuda!"
+  _hidden_value = true
+}

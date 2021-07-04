@@ -1,0 +1,65 @@
+type dummy.LexicalMaroonMurial {
+  annotations {
+    dummy.LatinIvoryCarmen ProtestantPurpleChloe {
+    }
+    dummy.RealAmethystFawne VagueEmeraldEngracia {
+    }
+    boolean ClassicLavenderKayley {
+    }
+    dummy.ConcretePurpleLuise ProminentOrangeMallissa {
+    }
+    dummy.TheoreticalChocolateKary SufficientScarletAshien {
+    }
+    dummy.FascinatingAmaranthMargi GreatAquamarineLea {
+    }
+    number SpareBrownBellina {
+    }
+    dummy.StraightforwardChocolateZsazsa StableBrownAggie {
+    }
+    number GradualAmethystShirline {
+    }
+    string ExoticRedTabby {
+    }
+    dummy.MerePurplePaolina RelativeBrownLola {
+    }
+    dummy.RealAmethystFawne HolyIndigoBrandise {
+    }
+    dummy.DangerousGoldShannen StrongTanRosette {
+    }
+    dummy.ValuableRedDeeann MysteriousAmethystJeane {
+    }
+    json ToughCopperRosie {
+    }
+    dummy.RelevantSilverAlma RelievedSalmonLayney {
+    }
+    string ScaryPurpleGeri {
+    }
+    boolean LuckyIndigoCelestia {
+    }
+    dummy.VictoriousHarlequinDebbie BizarreOliveKailey {
+    }
+    dummy.HandsomeMaroonRyann WhisperingAmaranthNydia {
+    }
+    number RoastedRedRhodia {
+    }
+  }
+  ProtestantPurpleChloe = false
+  VagueEmeraldEngracia = file("PastAzureJanene.txt")
+  ClassicLavenderKayley = true
+  ProminentOrangeMallissa = false
+  SufficientScarletAshien = true
+  SpareBrownBellina = 353
+  StableBrownAggie = true
+  GradualAmethystShirline = 811
+  ExoticRedTabby = "Why didnt the skeleton cross the road? Because he had no guts."
+  RelativeBrownLola = 638
+  HolyIndigoBrandise = file("SuccessfulFuchsiaTheresita.txt")
+  StrongTanRosette = true
+  MysteriousAmethystJeane = false
+  ToughCopperRosie = "What is a centipedes's favorite Beatle song?  I want to hold your hand, hand, hand, hand..."
+  ScaryPurpleGeri = "A steak pun is a rare medium well done."
+  LuckyIndigoCelestia = false
+  BizarreOliveKailey = false
+  WhisperingAmaranthNydia = file("ObnoxiousGoldRomy.txt")
+  RoastedRedRhodia = 670
+}

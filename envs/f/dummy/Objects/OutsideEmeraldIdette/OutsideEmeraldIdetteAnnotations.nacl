@@ -1,0 +1,65 @@
+type dummy.OutsideEmeraldIdette {
+  annotations {
+    dummy.NiceAmethystZahara FascinatingBrownLinnell {
+    }
+    dummy.IslamicJadeJean BoldAmberShea {
+    }
+    json PracticalCoffeeLyndsay {
+    }
+    dummy.RealAmethystFawne AgreedAmethystReggi {
+    }
+    dummy.ApparentMaroonMercie NativeJadeMoria {
+    }
+    serviceid RelatedSapphireTrudi {
+    }
+    dummy.HighMagentaDevi SourAquaPauli {
+    }
+    dummy.DEFAULT PurePeachCrissy {
+    }
+    dummy.NervousLimeFina FilthyCoralSandye {
+    }
+    dummy.ApparentMaroonMercie PremierTurquoiseJoli {
+    }
+    number ChristianAzureMelina {
+    }
+    dummy.NervousLimeFina ReligiousRoseWinona {
+    }
+    dummy.CreativeScarletSerene AshamedMoccasinRhona {
+    }
+    dummy.DangerousGoldShannen ChiefTealVeronike {
+    }
+    json VocationalAmaranthJoceline {
+    }
+    serviceid RigidCoffeeNoreen {
+    }
+    dummy.DifficultTurquoiseMaible TopCoffeeLindsy {
+    }
+    string BewilderedSalmonNanine {
+    }
+    string LooseJadeTierney {
+    }
+  }
+  FascinatingBrownLinnell = false
+  PracticalCoffeeLyndsay = "Why was it called the dark ages? Because of all the knights. "
+  AgreedAmethystReggi = file("HuskyPeachJoanie.txt")
+  NativeJadeMoria = 208
+  RelatedSapphireTrudi = "Did you know that protons have mass? I didn't even know they were catholic."
+  SourAquaPauli = file("RightLimeBecka.txt")
+  PurePeachCrissy = {
+    legit = "Why didnt the skeleton cross the road? Because he had no guts."
+  }
+  FilthyCoralSandye = 898
+  PremierTurquoiseJoli = 998
+  ChristianAzureMelina = 683
+  ReligiousRoseWinona = 208
+  AshamedMoccasinRhona = 77
+  ChiefTealVeronike = true
+  VocationalAmaranthJoceline = '''
+Why was it called the dark ages? Because of all the knights. 
+Slept like a log last night  woke up in the fireplace.
+'''
+  RigidCoffeeNoreen = "What do you do on a remote island? Try and find the TV island it belongs to."
+  TopCoffeeLindsy = false
+  BewilderedSalmonNanine = "Why is Peter Pan always flying? Because he Neverlands."
+  LooseJadeTierney = "Whoever invented the knock-knock joke should get a no bell prize."
+}

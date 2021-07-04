@@ -1,0 +1,25 @@
+type dummy.AppropriateRedAdey {
+  annotations {
+    boolean StandardSapphireSal {
+    }
+    dummy.RedPeachFaunie TallCoralGilbertine {
+    }
+    dummy.RedPeachFaunie InformalCoralPolly {
+    }
+    serviceid MereTurquoiseBuffy {
+    }
+    json ChiefCoffeeMellicent {
+    }
+    json ActualMoccasinBonnee {
+    }
+  }
+  json UrgentYellowUlrikaumeko {
+  }
+  StandardSapphireSal = true
+  TallCoralGilbertine = file("TiredTurquoiseNickie.txt")
+  InformalCoralPolly = file("AwfulVioletTruda.txt")
+  MereTurquoiseBuffy = "Dad Im hungry  Hi hungry Im dad"
+  ChiefCoffeeMellicent = "What do you do on a remote island? Try and find the TV island it belongs to."
+  ActualMoccasinBonnee = "Why does a Moon-rock taste better than an Earth-rock? Because it's a little meteor."
+  _hidden_value = true
+}

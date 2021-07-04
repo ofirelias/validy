@@ -1,0 +1,63 @@
+type dummy.CoherentWhiteStormie {
+  annotations {
+    json SplendidMaroonJosefina {
+    }
+    dummy.PsychiatricBrownEmmalynn AlternativeBlushRosmunda {
+    }
+    dummy.ConcretePurpleLuise LuckyBlueLilla {
+    }
+    dummy.MerePurplePaolina HuskyTomatoMalva {
+    }
+    json FunVioletStephi {
+    }
+    string ExcessiveCyanIlene {
+    }
+    dummy.VictoriousHarlequinDebbie SquareBrownPavia {
+    }
+    dummy.ShyLimeTobey FluffyPinkFarand {
+    }
+    boolean SteepSapphireRuthi {
+    }
+    json SymbolicGoldDedie {
+    }
+    dummy.LongAmaranthReeva TallYellowMarthe {
+    }
+    dummy.RedPeachFaunie ExtremeAmethystGladi {
+    }
+    string FunnyCopperPriscilla {
+    }
+    dummy.ArbitraryPinkGennifer EuropeanRoseRhodie {
+    }
+    number LikeLimeTrudi {
+    }
+    boolean WellIndigoGretal {
+    }
+    dummy.ConcretePurpleLuise AnxiousHarlequinKelsey {
+    }
+    dummy.StatutoryRoseJeri GoldenAmberMinerva {
+    }
+    dummy.BrokenPeachJosephine DirtyBrownPeta {
+    }
+    dummy.NiceAmethystZahara BrownGreenAnselma {
+    }
+    json DivineVioletJobye {
+    }
+  }
+  SplendidMaroonJosefina = "Chances are if you' ve seen one shopping center, you've seen a mall."
+  AlternativeBlushRosmunda = file("PoisedMoccasinVirginie.txt")
+  LuckyBlueLilla = false
+  HuskyTomatoMalva = 25
+  FunVioletStephi = "Did you hear about the guy whose whole left side was cut off? He's all right now."
+  ExcessiveCyanIlene = "A steak pun is a rare medium well done."
+  SquareBrownPavia = false
+  FluffyPinkFarand = true
+  SteepSapphireRuthi = false
+  SymbolicGoldDedie = "What do you call two barracuda fish?  A Pairacuda!"
+  ExtremeAmethystGladi = file("CautiousPlumMariel.txt")
+  FunnyCopperPriscilla = "Why did the kid cross the playground? To get to the other slide."
+  LikeLimeTrudi = 751
+  WellIndigoGretal = false
+  AnxiousHarlequinKelsey = false
+  BrownGreenAnselma = false
+  DivineVioletJobye = "Whoever invented the knock-knock joke should get a no bell prize."
+}

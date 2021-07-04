@@ -1,0 +1,62 @@
+type dummy.DifferentBlueEvvie {
+  annotations {
+    dummy.BroadGreenJacynth ShinyRoseCarita {
+    }
+    dummy.HandsomeMaroonRyann BigCyanKarmen {
+    }
+    dummy.MassOliveDore BoringAquaGuinevere {
+    }
+    dummy.ValuableRedDeeann AngryGoldCatha {
+    }
+    boolean DamagedCoffeeCecily {
+    }
+  }
+  number CrudeCoralBunni {
+  }
+  dummy.ShyLimeTobey FunnyCoffeeSaudra {
+    ImportantAquaFaun = true
+    NakedTurquoiseSusette = "What did one nut say as he chased another nut?  I'm a cashew!"
+    EffectiveBlackHeddie = 118
+    OlympicBeigeAlikee = false
+    TastelessAmberDahlia = file("EnormousSapphireMariam.txt")
+    PresentAzureNicki = 956
+    MonetaryMaroonEmlynn = "I'll tell you what often gets over looked... garden fences."
+    ExcitedFuchsiaKinna = "I knew I shouldn't steal a mixer from work, but it was a whisk I was willing to take."
+    GreekPlumCathyleen = 465
+    LonelyCoralCherry = "What creature is smarter than a talking parrot? A spelling bee."
+    CivicSalmonJoann = file("BitterChocolateKathie.txt")
+    WesternTealDoti = true
+    EarlyCyanLoni = false
+    WholeBlueHyacintha = "Did you hear the joke about the wandering nun? She was a roman catholic."
+    DecisiveAmberEde = 417
+    LegislativeRedEmmey = 609
+    MightyTanStorm = 630
+    AlliedAquaCatherine = file("SatisfactoryPeachMalena.txt")
+    ImpressedBeigeAeriel = "What did the father tomato say to the baby tomato whilst on a family walk? Ketchup."
+    InfluentialHarlequinLula = false
+    CommunistMaroonHelga = false
+    DeliciousBronzeLorraine = 87
+    LongGreenGeorgianna = "Did you know that protons have mass? I didn't even know they were catholic."
+    AdvancedMagentaVale = true
+    LivePeachSal = "Slept like a log last night  woke up in the fireplace."
+  }
+  dummy.AdditionalVioletWrennie TiredOrangeAlene {
+    ElegantYellowJayne = "Im only familiar with 25 letters in the English language. I dont know why."
+    BlondeSapphireMelodee = "Did you hear the joke about the wandering nun? She was a roman catholic."
+    MarineScarletGuinna = 794
+    ConsistentTurquoisePattie = file("FatIvoryLexis.txt")
+    ObjectiveGreenBethanne = '''
+Why was it called the dark ages? Because of all the knights. 
+What do you call two barracuda fish?  A Pairacuda!
+Why did the kid cross the playground? To get to the other slide.
+'''
+    GivenGrayDominique = "I knew I shouldn't steal a mixer from work, but it was a whisk I was willing to take."
+  }
+  string MilitaryIndigoKeslie {
+  }
+  ShinyRoseCarita = file("DevelopingSilverLoralie.txt")
+  BigCyanKarmen = file("AdversePlumElonore.txt")
+  AngryGoldCatha = false
+  DamagedCoffeeCecily = true
+  _hidden_value = true
+}

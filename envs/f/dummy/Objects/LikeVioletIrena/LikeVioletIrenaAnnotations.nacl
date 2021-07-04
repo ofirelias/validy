@@ -1,0 +1,66 @@
+type dummy.LikeVioletIrena {
+  annotations {
+    number SquealingRedMelina {
+    }
+    dummy.ShyLimeTobey RoundFuchsiaMegan {
+    }
+    dummy.ValuableRedDeeann CondemnedBlueNeila {
+    }
+    dummy.StraightforwardChocolateZsazsa TechnologicalAzureIrena {
+    }
+    string GrowingCoffeeIolande {
+    }
+    dummy.LoyalAquaMarylin RattyOrangeDaisy {
+    }
+    number LooseHarlequinBibbie {
+    }
+    serviceid HelplessBlueSean {
+    }
+    boolean InvolvedGrayTheresa {
+    }
+    dummy.DangerousGoldShannen DrabTanRaeann {
+    }
+    dummy.VictoriousHarlequinDebbie MarkedPeachAili {
+    }
+    string SpicyAquaCoral {
+    }
+    dummy.SunnyScarletGayle FinancialPeachLila {
+    }
+    dummy.DeafeningSapphireHulda NosyChocolateTommi {
+    }
+    dummy.CreativeScarletSerene GiantBlackGenny {
+    }
+    boolean DarkGoldPhilly {
+    }
+    number PoliticalLimeAdel {
+    }
+    boolean ChosenRedGaby {
+    }
+    number BareAquaSophie {
+    }
+    dummy.RemoteVioletZuzana LonelyGoldArleyne {
+    }
+    dummy.CreativeScarletSerene VariableGreenNoni {
+    }
+  }
+  SquealingRedMelina = 583
+  RoundFuchsiaMegan = false
+  CondemnedBlueNeila = false
+  TechnologicalAzureIrena = true
+  GrowingCoffeeIolande = "What do you do on a remote island? Try and find the TV island it belongs to."
+  RattyOrangeDaisy = true
+  LooseHarlequinBibbie = 68
+  HelplessBlueSean = "Why do birds fly south for the winter? Because it's too far to walk."
+  InvolvedGrayTheresa = true
+  DrabTanRaeann = false
+  MarkedPeachAili = true
+  SpicyAquaCoral = "Chances are if you' ve seen one shopping center, you've seen a mall."
+  FinancialPeachLila = true
+  NosyChocolateTommi = false
+  GiantBlackGenny = 695
+  DarkGoldPhilly = false
+  PoliticalLimeAdel = 341
+  ChosenRedGaby = true
+  BareAquaSophie = 981
+  VariableGreenNoni = 549
+}

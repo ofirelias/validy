@@ -1,0 +1,62 @@
+type dummy.SoundScarletInga is string {
+  annotations {
+    dummy.ApparentMaroonMercie BlackPinkVanny {
+    }
+    json DistantGrayMeredithe {
+    }
+    dummy.DEFAULT AverageChocolateAddy {
+    }
+    dummy.DEFAULT AblePlumMarcelline {
+    }
+    number VivaciousScarletCoreen {
+    }
+    json HotAquamarineEdythe {
+    }
+    serviceid DullEmeraldAgnella {
+    }
+    number ControversialCoralSelena {
+    }
+    boolean SelfishMoccasinDodi {
+    }
+    dummy.NiceAmethystZahara FineSilverMarty {
+    }
+    dummy.BroadGreenJacynth OlympicPeachBobbette {
+    }
+    string EssentialYellowDevondra {
+    }
+    dummy.RedPeachFaunie DoubtfulCrimsonAriella {
+    }
+    serviceid JudicialBlackSara {
+    }
+    string UniversalCyanRozanna {
+    }
+    string SeniorAmaranthMillisent {
+    }
+    serviceid HistoricPeachDierdre {
+    }
+    string SpatialYellowAnissa {
+    }
+  }
+  BlackPinkVanny = 204
+  DistantGrayMeredithe = "Chances are if you' ve seen one shopping center, you've seen a mall."
+  AverageChocolateAddy = {
+    legit = "Chances are if you' ve seen one shopping center, you've seen a mall."
+  }
+  AblePlumMarcelline = {
+    legit = "I knew I shouldn't steal a mixer from work, but it was a whisk I was willing to take."
+  }
+  VivaciousScarletCoreen = 713
+  HotAquamarineEdythe = "What did one nut say as he chased another nut?  I'm a cashew!"
+  DullEmeraldAgnella = "I thought my wife was joking when she said she'd leave me if I didn't stop signing \"I'm A Believer\"... Then I saw her face."
+  ControversialCoralSelena = 349
+  SelfishMoccasinDodi = true
+  FineSilverMarty = true
+  OlympicPeachBobbette = file("ParentalHarlequinMarlo.txt")
+  EssentialYellowDevondra = "I thought my wife was joking when she said she'd leave me if I didn't stop signing \"I'm A Believer\"... Then I saw her face."
+  DoubtfulCrimsonAriella = file("PrettySalmonIbbie.txt")
+  JudicialBlackSara = "What is a centipedes's favorite Beatle song?  I want to hold your hand, hand, hand, hand..."
+  UniversalCyanRozanna = "To be Frank, I'd have to change my name."
+  SeniorAmaranthMillisent = "Im only familiar with 25 letters in the English language. I dont know why."
+  HistoricPeachDierdre = "Did you hear the joke about the wandering nun? She was a roman catholic."
+  SpatialYellowAnissa = "Im only familiar with 25 letters in the English language. I dont know why."
+}

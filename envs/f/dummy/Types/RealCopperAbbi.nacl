@@ -1,0 +1,16 @@
+type dummy.RealCopperAbbi is boolean {
+  annotations {
+    serviceid SharedBlushInes {
+    }
+    number AcceptedSalmonTheda {
+    }
+    boolean AsleepAmberTrudey {
+    }
+    number DramaticPurpleBrit {
+    }
+  }
+  SharedBlushInes = "Did you hear the joke about the wandering nun? She was a roman catholic."
+  AcceptedSalmonTheda = 710
+  AsleepAmberTrudey = true
+  DramaticPurpleBrit = 749
+}

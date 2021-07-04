@@ -1,0 +1,15 @@
+dummy.HelpfulSapphireGenovera RainyTurquoiseMilissent {
+  GermanPinkDarell = "Why didnt the skeleton cross the road? Because he had no guts."
+  JoyousCrimsonBenedikta = {
+    VariedTurquoiseDarcey = true
+    RudeBlackMallissa = file("LivingHarlequinJolyn.txt")
+    RoundSilverElane = file("SolidCoralCatlaina.txt")
+    SoundMagentaTorie = "A steak pun is a rare medium well done."
+    LittleChocolateLanita = 109
+    ThoroughGreenMarney = file("SparklingTealMolly.txt")
+    AncientCoralClary = "Why did the kid cross the playground? To get to the other slide."
+    FunPeachClaude = "What do you call two barracuda fish?  A Pairacuda!"
+  }
+  HardTurquoiseMaisie = 516
+  _parent = dummy.HelpfulBlueAtlanta
+}

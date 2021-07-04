@@ -1,0 +1,68 @@
+type dummy.AccurateTomatoDarya {
+  annotations {
+    string SkilledGoldBunny {
+    }
+    serviceid HotBlackGrete {
+    }
+    json ShortIvoryAmberly {
+    }
+    dummy.FuzzyAzureKrissie PrimeBronzeMadonna {
+    }
+    dummy.RedPeachFaunie GrievingGrayVeradis {
+    }
+    string RearBlushAdriana {
+    }
+    number SovietMagentaGwendolyn {
+    }
+    dummy.LatinIvoryCarmen BreezyRedTrescha {
+    }
+    serviceid JuicyGreenThomasine {
+    }
+    dummy.InevitableAmethystKlarika WoodenBlueErica {
+    }
+    dummy.SunnyScarletGayle FunnyMagentaTerese {
+    }
+    dummy.NervousLimeFina EthicalMagentaArabela {
+    }
+    dummy.LatinIvoryCarmen ClassicAquaMoreen {
+    }
+    dummy.GermanMaroonTonya RottenChocolateKarina {
+    }
+    boolean ConfusedWhiteKeeley {
+    }
+    boolean CooingBeigeSydelle {
+    }
+    serviceid ComparableBeigeDavina {
+    }
+    json OrthodoxCrimsonKetty {
+    }
+    dummy.MisleadingFuchsiaIngrid SpareMagentaJackqueline {
+    }
+    boolean BoredAmaranthRobinette {
+    }
+    number AmbitiousCoffeeBrianne {
+    }
+    dummy.MerePurplePaolina VerticalBrownIbby {
+    }
+  }
+  SkilledGoldBunny = "What is a centipedes's favorite Beatle song?  I want to hold your hand, hand, hand, hand..."
+  HotBlackGrete = "What is a centipedes's favorite Beatle song?  I want to hold your hand, hand, hand, hand..."
+  ShortIvoryAmberly = "Chances are if you' ve seen one shopping center, you've seen a mall."
+  GrievingGrayVeradis = file("GreasyWhiteBrittney.txt")
+  RearBlushAdriana = "What do you call two barracuda fish?  A Pairacuda!"
+  SovietMagentaGwendolyn = 656
+  BreezyRedTrescha = true
+  JuicyGreenThomasine = "Slept like a log last night  woke up in the fireplace."
+  WoodenBlueErica = file("SmallAzureMureil.txt")
+  FunnyMagentaTerese = false
+  EthicalMagentaArabela = 268
+  ClassicAquaMoreen = true
+  ConfusedWhiteKeeley = false
+  CooingBeigeSydelle = false
+  ComparableBeigeDavina = "Im only familiar with 25 letters in the English language. I dont know why."
+  OrthodoxCrimsonKetty = "Did you hear the joke about the wandering nun? She was a roman catholic."
+  SpareMagentaJackqueline = file("SpottyGoldKendre.txt")
+  BoredAmaranthRobinette = false
+  AmbitiousCoffeeBrianne = 131
+  VerticalBrownIbby = 378
+}

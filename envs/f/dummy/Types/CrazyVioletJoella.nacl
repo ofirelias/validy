@@ -1,0 +1,21 @@
+type dummy.CrazyVioletJoella {
+  annotations {
+    number PsychologicalEmeraldChelsea {
+    }
+    dummy.RedPeachFaunie AdorableFuchsiaJeniece {
+    }
+  }
+  serviceid ScaredBrownDorothee {
+  }
+  serviceid RealCyanJazmin {
+  }
+  serviceid StrangeLavenderZorah {
+  }
+  string PurpleSapphireKarlotte {
+  }
+  boolean ColdCrimsonCayla {
+  }
+  PsychologicalEmeraldChelsea = 33
+  AdorableFuchsiaJeniece = file("PresentTomatoMelissa.txt")
+  _hidden_value = true
+}

@@ -1,0 +1,71 @@
+type dummy.SpatialHarlequinAuria {
+  annotations {
+    serviceid RationalMoccasinJanela {
+    }
+    number WorryingScarletLanette {
+    }
+    dummy.PsychiatricBrownEmmalynn RomanTurquoiseGenevra {
+    }
+    dummy.HandsomeMaroonRyann SafeOliveCarry {
+    }
+    number RetiredAmethystFelicia {
+    }
+    number InevitableHarlequinChiquia {
+    }
+    dummy.HandsomeMaroonRyann GrotesqueBlackGayla {
+    }
+    dummy.ConcretePurpleLuise ChineseOrangeNadean {
+    }
+    boolean BlindCrimsonFarica {
+    }
+    dummy.HostileMaroonIngeberg EthicalRoseHermina {
+    }
+    string SwissAmaranthAnnabell {
+    }
+    boolean ConsistentScarletJoanne {
+    }
+    number HotOrangeCarmencita {
+    }
+    dummy.CreativeScarletSerene LoyalPinkElene {
+    }
+    number MarvellousPeachVale {
+    }
+    number HumanOrangeMatilda {
+    }
+    json WateryPlumKylen {
+    }
+    dummy.AmericanMoccasinAgnella TroubledYellowKippy {
+    }
+    serviceid GiantCrimsonCristal {
+    }
+    json FlatJadeYoshi {
+    }
+    number VisualSapphireEstella {
+    }
+    serviceid FastAquamarineMarcille {
+    }
+    dummy.LatinIvoryCarmen NuclearJadeNorri {
+    }
+  }
+  RationalMoccasinJanela = "To be Frank, I'd have to change my name."
+  WorryingScarletLanette = 319
+  RomanTurquoiseGenevra = file("UninterestedHarlequinFara.txt")
+  SafeOliveCarry = file("CivilianSilverNicoli.txt")
+  RetiredAmethystFelicia = 56
+  InevitableHarlequinChiquia = 771
+  GrotesqueBlackGayla = file("RoyalTanBambie.txt")
+  ChineseOrangeNadean = true
+  BlindCrimsonFarica = true
+  SwissAmaranthAnnabell = "Why do birds fly south for the winter? Because it's too far to walk."
+  ConsistentScarletJoanne = true
+  HotOrangeCarmencita = 680
+  LoyalPinkElene = 418
+  MarvellousPeachVale = 298
+  HumanOrangeMatilda = 28
+  WateryPlumKylen = "Did you hear about the guy whose whole left side was cut off? He's all right now."
+  GiantCrimsonCristal = "What do you call two barracuda fish?  A Pairacuda!"
+  FlatJadeYoshi = "Why did the kid cross the playground? To get to the other slide."
+  VisualSapphireEstella = 561
+  FastAquamarineMarcille = "Did you know that protons have mass? I didn't even know they were catholic."
+  NuclearJadeNorri = true
+}

@@ -1,0 +1,34 @@
+type dummy.NaughtyHarlequinGertie is boolean {
+  annotations {
+    number CombativeTanShari {
+    }
+    boolean SmallAmaranthDebbie {
+    }
+    string CoolTealRay {
+    }
+    dummy.NiceAmethystZahara ElegantTomatoAnnabell {
+    }
+    boolean RelativeBlueLenee {
+    }
+    serviceid RigidCyanBeitris {
+    }
+    serviceid ProudAquaDreddy {
+    }
+    dummy.RedPeachFaunie ExcitedHarlequinBessie {
+    }
+    boolean ExpectedBlushCristionna {
+    }
+    boolean CasualChocolateKimberly {
+    }
+  }
+  CombativeTanShari = 41
+  SmallAmaranthDebbie = true
+  CoolTealRay = "Chances are if you' ve seen one shopping center, you've seen a mall."
+  ElegantTomatoAnnabell = false
+  RelativeBlueLenee = false
+  RigidCyanBeitris = "Why did the tomato blush? Because it saw the salad dressing."
+  ProudAquaDreddy = "Why did the tomato blush? Because it saw the salad dressing."
+  ExcitedHarlequinBessie = file("SelectiveApricotBlondell.txt")
+  ExpectedBlushCristionna = false
+  CasualChocolateKimberly = false
+}

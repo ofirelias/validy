@@ -1,0 +1,32 @@
+type dummy.MissingRoseHestia {
+  annotations {
+    string SuccessfulPurpleBrande {
+    }
+    dummy.HighMagentaDevi ItchyHarlequinCorri {
+    }
+    json IdenticalSilverHollie {
+    }
+    dummy.RealAmethystFawne VaryingTealEstelle {
+    }
+    dummy.ApparentMaroonMercie FundamentalAmberSally {
+    }
+    json IntimateFuchsiaMisha {
+    }
+  }
+  dummy.MassOliveDore RespectiveBlueBlinny {
+    PureBronzeEdie = "I thought my wife was joking when she said she'd leave me if I didn't stop signing \"I'm A Believer\"... Then I saw her face."
+    ConsiderableBlushLuce = true
+    DrunkYellowHally = 177
+    StatisticalMagentaSiobhan = "What is a centipedes's favorite Beatle song?  I want to hold your hand, hand, hand, hand..."
+    PotentialRedCatherine = "I was fired from the keyboard factory yesterday.  I wasn't putting in enough shifts."
+    ProtectivePinkJanet = "Why did the kid cross the playground? To get to the other slide."
+    NoisySapphireIdaline = "Did you hear the joke about the wandering nun? She was a roman catholic."
+  }
+  SuccessfulPurpleBrande = "I was fired from the keyboard factory yesterday.  I wasn't putting in enough shifts."
+  ItchyHarlequinCorri = file("GladPurpleAnallese.txt")
+  IdenticalSilverHollie = "Slept like a log last night  woke up in the fireplace."
+  VaryingTealEstelle = file("StatutorySapphireMaggee.txt")
+  FundamentalAmberSally = 91
+  IntimateFuchsiaMisha = "I was fired from the keyboard factory yesterday.  I wasn't putting in enough shifts."
+  _hidden_value = true
+}

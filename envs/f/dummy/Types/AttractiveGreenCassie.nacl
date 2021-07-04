@@ -1,0 +1,63 @@
+type dummy.AttractiveGreenCassie {
+  annotations {
+    string FriendlyIvoryEllyn {
+    }
+    dummy.SafeScarletMarguerite SeniorLimeShandee {
+    }
+    dummy.RespectableGreenGarland PhysicalHarlequinJeanette {
+    }
+    number SteadyOrangeElbertina {
+    }
+    string SlimyOliveTruda {
+    }
+    dummy.WeirdAmaranthMoyna PrivateEmeraldAundrea {
+    }
+  }
+  string RegulatoryChocolateAlvinia {
+  }
+  string RequiredCoralElisabeth {
+  }
+  number DarkTomatoHonoria {
+  }
+  dummy.HandsomeMaroonRyann EarlyPeachLaverna {
+    ParentalScarletMellisent = 983
+    HiddenAmberShauna = true
+    BoilingRoseMureil = true
+    DryGreenMalina = "Why does a Moon-rock taste better than an Earth-rock? Because it's a little meteor."
+    MassiveHarlequinTaffy = {
+      legit = "Why is Peter Pan always flying? Because he Neverlands."
+    }
+    InterestingCopperDarcey = 287
+    PrettyIvoryCorina = 556
+    SmilingSalmonAustin = "I thought my wife was joking when she said she'd leave me if I didn't stop signing \"I'm A Believer\"... Then I saw her face."
+    RenewedOrangeJillana = false
+    MinisterialRoseDusty = false
+    MechanicalRoseLaverna = 529
+  }
+  dummy.DarkYellowLetti IcyOrangeRhodia {
+    WittyTomatoJewell = false
+    ArchitecturalBlackDoralynne = "Whoever invented the knock-knock joke should get a no bell prize."
+    BackLavenderCayla = file("AdequateOrangeAndromache.txt")
+    EvilMoccasinBibby = 644
+    ProudCoffeeEllette = true
+    DynamicLavenderAdena = "Did you know that protons have mass? I didn't even know they were catholic."
+  }
+  dummy.HighMagentaDevi CompatiblePurpleNatalina {
+    OutdoorAzureGwenette = "I thought my wife was joking when she said she'd leave me if I didn't stop signing \"I'm A Believer\"... Then I saw her face."
+    IntegralAmaranthPatrica = file("ElectricGoldCassondra.txt")
+    NastyLimeMarsha = "I'm tired of following my dreams. I'm just going to ask them where they are going and meet up with them later."
+    AmusedYellowMair = "Why did the tomato blush? Because it saw the salad dressing."
+    SquareBlushMara = false
+    AdequateBeigeCordelie = "Im only familiar with 25 letters in the English language. I dont know why."
+    ComingCrimsonCaty = "Did you know that protons have mass? I didn't even know they were catholic."
+    ScarySilverAdrianna = 12
+    MightyBlueDorian = "Why did the kid cross the playground? To get to the other slide."
+    GreatPeachCharita = true
+    PositiveOrangeAshlie = "What do you do on a remote island? Try and find the TV island it belongs to."
+  }
+  FriendlyIvoryEllyn = "What do you call two barracuda fish?  A Pairacuda!"
+  SeniorLimeShandee = 461
+  SteadyOrangeElbertina = 94
+  SlimyOliveTruda = "Dad Im hungry  Hi hungry Im dad"
+  _hidden_value = true
+}

@@ -1,0 +1,63 @@
+type dummy.ChiefBeigeNanci {
+  annotations {
+    number NiceCyanRosemary {
+    }
+    serviceid VeryBeigeClotilda {
+    }
+    json SlowAmberDoreen {
+    }
+    string ExperiencedBeigeCrin {
+    }
+    string NumerousYellowMarris {
+    }
+    dummy.ConcretePurpleLuise FuzzyAmaranthEdna {
+    }
+    dummy.DeafeningSapphireHulda DarkAzureSelina {
+    }
+    dummy.NiceAmethystZahara CuriousPurpleOfelia {
+    }
+    number BurningBeigeTally {
+    }
+    dummy.ProtectiveBeigeCassie SourIvoryOthilie {
+    }
+    json HuskyAzureDeva {
+    }
+    dummy.RealAmethystFawne NursingRedVanya {
+    }
+    serviceid ElectronicSalmonMaritsa {
+    }
+    number CrazyEmeraldRobbin {
+    }
+    dummy.DefensiveAquamarineGeorgiana NuttyEmeraldAlyda {
+    }
+    dummy.ApparentBlueDarci ExpectedWhiteMargaret {
+    }
+    dummy.StraightforwardChocolateZsazsa SportingIndigoDonella {
+    }
+    dummy.CreativeScarletSerene LowIndigoBobina {
+    }
+    dummy.BroadGreenJacynth OppositeTealLibby {
+    }
+    json FamiliarBrownKarol {
+    }
+  }
+  NiceCyanRosemary = 173
+  VeryBeigeClotilda = "I'll tell you what often gets over looked... garden fences."
+  SlowAmberDoreen = "I'll tell you what often gets over looked... garden fences."
+  ExperiencedBeigeCrin = "Why did the tomato blush? Because it saw the salad dressing."
+  NumerousYellowMarris = "I thought my wife was joking when she said she'd leave me if I didn't stop signing \"I'm A Believer\"... Then I saw her face."
+  FuzzyAmaranthEdna = true
+  DarkAzureSelina = false
+  CuriousPurpleOfelia = false
+  BurningBeigeTally = 349
+  SourIvoryOthilie = false
+  HuskyAzureDeva = "Why do birds fly south for the winter? Because it's too far to walk."
+  NursingRedVanya = file("PoorLavenderRickie.txt")
+  ElectronicSalmonMaritsa = "What did the father tomato say to the baby tomato whilst on a family walk? Ketchup."
+  CrazyEmeraldRobbin = 649
+  NuttyEmeraldAlyda = 730
+  SportingIndigoDonella = false
+  LowIndigoBobina = 86
+  OppositeTealLibby = file("SevereBronzeDre.txt")
+  FamiliarBrownKarol = "What did the father tomato say to the baby tomato whilst on a family walk? Ketchup."
+}

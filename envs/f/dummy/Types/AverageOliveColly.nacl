@@ -1,0 +1,25 @@
+type dummy.AverageOliveColly {
+  annotations {
+    dummy.RedPeachFaunie ClearAmethystDemetria {
+    }
+    serviceid LightIndigoDonetta {
+    }
+    dummy.MisleadingFuchsiaIngrid LiveLimeTrudy {
+    }
+    dummy.TropicalScarletCora TenseAquaJojo {
+    }
+    dummy.MisleadingFuchsiaIngrid UnevenChocolateTatiania {
+    }
+  }
+  dummy.SquareTanAbagael SmartYellowKarna {
+    RationalLavenderKlarika = "To be Frank, I'd have to change my name."
+    DampGrayValerie = file("InterimTanPaulie.txt")
+    LiquidIvoryPiper = false
+  }
+  ClearAmethystDemetria = file("ExuberantTealDorice.txt")
+  LightIndigoDonetta = "Why did the tomato blush? Because it saw the salad dressing."
+  LiveLimeTrudy = file("SubtleBronzePearle.txt")
+  TenseAquaJojo = file("WeeTealSamantha.txt")
+  UnevenChocolateTatiania = file("CarefulBrownCatharina.txt")
+  _hidden_value = true
+}

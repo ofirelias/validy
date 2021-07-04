@@ -1,0 +1,50 @@
+type dummy.OppositeMagentaAmalle {
+  annotations {
+    dummy.ChangingCrimsonOlivie SubstantialPlumRosalind {
+    }
+    dummy.RealAmethystFawne PreciseRoseDedra {
+    }
+    dummy.CreativeScarletSerene GiantCoralGlynis {
+    }
+    dummy.RedPeachFaunie PrimeVioletHeloise {
+    }
+    json UnemployedRedLoraine {
+    }
+    boolean SatisfiedSilverJermaine {
+    }
+    dummy.UnacceptableIndigoSela LateBlueKrystyna {
+    }
+    dummy.DeafeningSapphireHulda RomanAzureSaundra {
+    }
+    number SupportingTanJulina {
+    }
+    serviceid AverageOrangeLebbie {
+    }
+    boolean RapidScarletGrete {
+    }
+    dummy.ResidentialAzureAubry ForwardPinkGeorgette {
+    }
+    boolean LovelyGoldCrissy {
+    }
+    serviceid GrowingTomatoMirabel {
+    }
+    boolean DoubtfulChocolateBeryle {
+    }
+    dummy.NaturalApricotGarland ExtremeWhiteMinnaminnie {
+    }
+  }
+  SubstantialPlumRosalind = true
+  PreciseRoseDedra = file("CrookedSalmonLil.txt")
+  GiantCoralGlynis = 413
+  PrimeVioletHeloise = file("TallGoldEstrellita.txt")
+  UnemployedRedLoraine = "To be Frank, I'd have to change my name."
+  SatisfiedSilverJermaine = true
+  RomanAzureSaundra = true
+  SupportingTanJulina = 450
+  AverageOrangeLebbie = "My first time using an elevator was an uplifting experience. The second time let me down."
+  RapidScarletGrete = false
+  ForwardPinkGeorgette = file("FatalCrimsonKellen.txt")
+  LovelyGoldCrissy = true
+  GrowingTomatoMirabel = "Why is Peter Pan always flying? Because he Neverlands."
+  DoubtfulChocolateBeryle = true
+}

@@ -1,0 +1,58 @@
+type dummy.AustralianTomatoMichaella {
+  annotations {
+    dummy.BroadGreenJacynth DecentRoseEdythe {
+    }
+    dummy.SunnyScarletGayle ExtensiveAzureCassaundra {
+    }
+    number BroadCrimsonRoana {
+    }
+    number RisingVioletSonia {
+    }
+    json ClumsyChocolateLeonora {
+    }
+    json VaryingEmeraldMara {
+    }
+    string StandardEmeraldKaleena {
+    }
+    dummy.ValuableRedDeeann SilentScarletWinnifred {
+    }
+    json ThinMagentaDulsea {
+    }
+    number HorribleEmeraldDedra {
+    }
+    boolean TastelessLimeHynda {
+    }
+    dummy.MisleadingFuchsiaIngrid YoungFuchsiaCissy {
+    }
+    dummy.ValuableRedDeeann UptightCyanChelsea {
+    }
+    number UpsetChocolateLeeann {
+    }
+    json IncBrownDawna {
+    }
+    dummy.AdditionalVioletWrennie WrongAmaranthLeah {
+    }
+    dummy.BalancedFuchsiaAnny DailyTealKarlie {
+    }
+    dummy.NervousLimeFina SuperTurquoiseAnselma {
+    }
+  }
+  DecentRoseEdythe = file("CivicApricotHerminia.txt")
+  ExtensiveAzureCassaundra = true
+  BroadCrimsonRoana = 217
+  RisingVioletSonia = 283
+  ClumsyChocolateLeonora = "I'm tired of following my dreams. I'm just going to ask them where they are going and meet up with them later."
+  VaryingEmeraldMara = "Did you hear the joke about the wandering nun? She was a roman catholic."
+  StandardEmeraldKaleena = "Why did the tomato blush? Because it saw the salad dressing."
+  SilentScarletWinnifred = true
+  ThinMagentaDulsea = "Whoever invented the knock-knock joke should get a no bell prize."
+  HorribleEmeraldDedra = 374
+  TastelessLimeHynda = false
+  YoungFuchsiaCissy = file("RisingCoffeeAdria.txt")
+  UptightCyanChelsea = true
+  UpsetChocolateLeeann = 880
+  IncBrownDawna = "What do you do on a remote island? Try and find the TV island it belongs to."
+  WrongAmaranthLeah = 571
+  DailyTealKarlie = file("ElegantOrangeMaryl.txt")
+  SuperTurquoiseAnselma = 648
+}

@@ -1,0 +1,28 @@
+type dummy.SecureLavenderDorothee {
+  annotations {
+    serviceid ExclusiveAquaKaron {
+    }
+    boolean ProudMoccasinKaty {
+    }
+    dummy.BroadGreenJacynth UnevenVioletJoceline {
+    }
+    string ZanyMaroonArliene {
+    }
+    dummy.MerePurplePaolina TastelessBrownLanita {
+    }
+    boolean ActualSalmonVeda {
+    }
+    dummy.PsychiatricBrownEmmalynn DefeatedCopperMurial {
+    }
+  }
+  string LinguisticIvoryIngaborg {
+  }
+  ExclusiveAquaKaron = "Why was it called the dark ages? Because of all the knights. "
+  ProudMoccasinKaty = false
+  UnevenVioletJoceline = file("OrganicRedRuth.txt")
+  ZanyMaroonArliene = "What creature is smarter than a talking parrot? A spelling bee."
+  TastelessBrownLanita = 629
+  ActualSalmonVeda = true
+  DefeatedCopperMurial = file("IllTanLiva.txt")
+  _hidden_value = true
+}

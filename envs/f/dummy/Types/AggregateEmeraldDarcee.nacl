@@ -1,0 +1,16 @@
+type dummy.AggregateEmeraldDarcee {
+  annotations {
+    dummy.MisleadingFuchsiaIngrid SystematicAquamarineDavida {
+    }
+    dummy.ConcretePurpleLuise ExtendedMagentaCornelle {
+    }
+    dummy.BroadGreenJacynth WhiteLimeJosefa {
+    }
+  }
+  json EmpiricalBeigeAdriena {
+  }
+  SystematicAquamarineDavida = file("FellowTanWendie.txt")
+  ExtendedMagentaCornelle = false
+  WhiteLimeJosefa = file("SmallBlushCahra.txt")
+  _hidden_value = true
+}

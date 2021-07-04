@@ -1,0 +1,24 @@
+type dummy.ColossalRoseTheresina {
+  annotations {
+    dummy.SportingVioletLynn BraveFuchsiaKarlie {
+    }
+    dummy.CreativeScarletSerene CuriousIndigoVallie {
+    }
+    dummy.ConcretePurpleLuise PersonalBronzeKelsy {
+    }
+    number UselessCrimsonEvita {
+    }
+    string ComparableMoccasinLaverna {
+    }
+    number AccusedCoffeeKeri {
+    }
+  }
+  number GrubbyBronzeJacinda {
+  }
+  CuriousIndigoVallie = 197
+  PersonalBronzeKelsy = true
+  UselessCrimsonEvita = 626
+  ComparableMoccasinLaverna = "Did you hear the joke about the wandering nun? She was a roman catholic."
+  AccusedCoffeeKeri = 583
+  _hidden_value = true
+}

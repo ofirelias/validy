@@ -1,0 +1,19 @@
+type dummy.FixedPurplePetronilla {
+  annotations {
+    dummy.DeafeningSapphireHulda MedicalCopperKiley {
+    }
+    boolean EvilVioletFlorinda {
+    }
+    json OpenRedGusta {
+    }
+    string MisleadingSapphireSharla {
+    }
+  }
+  string TinyVioletRubina {
+  }
+  MedicalCopperKiley = false
+  EvilVioletFlorinda = false
+  OpenRedGusta = "What creature is smarter than a talking parrot? A spelling bee."
+  MisleadingSapphireSharla = "What did one nut say as he chased another nut?  I'm a cashew!"
+  _hidden_value = true
+}

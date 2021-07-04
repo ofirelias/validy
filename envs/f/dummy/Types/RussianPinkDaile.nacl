@@ -1,0 +1,45 @@
+type dummy.RussianPinkDaile {
+  annotations {
+    dummy.DEFAULT DeafeningIndigoSacha {
+    }
+    boolean DepressedRoseCheslie {
+    }
+    json StupidAmaranthGiana {
+    }
+    dummy.StraightforwardChocolateZsazsa PoliteCrimsonJuana {
+    }
+    dummy.RealAmethystFawne ElectricalRoseMarget {
+    }
+    serviceid HomelySapphireSuellen {
+    }
+    dummy.TropicalScarletCora RomanAmaranthJaneczka {
+    }
+  }
+  dummy.LatinIvoryCarmen InterestingAzureBarbra {
+    CommunistTomatoDelcine = true
+    WetPurpleHarmony = true
+    ControversialBlackIssi = file("VulnerableOrangeJohnette.txt")
+    EuropeanBronzeElke = "My first time using an elevator was an uplifting experience. The second time let me down."
+    TallBlueRosaleen = "I'm tired of following my dreams. I'm just going to ask them where they are going and meet up with them later."
+    TroubledOliveKarlen = "Whoever invented the knock-knock joke should get a no bell prize."
+    SuperbLimeNatty = file("EligibleCyanLeona.txt")
+    EconomicMaroonGuinevere = "Chances are if you' ve seen one shopping center, you've seen a mall."
+    GayGoldGae = true
+    PassivePinkJody = file("PrincipalTomatoCaresa.txt")
+    SplendidPurpleMerissa = false
+    NarrowLavenderZia = false
+    SpecificTurquoiseGwendolyn = file("MoaningLavenderDeloris.txt")
+    TopBlackPansy = true
+    StaleOrangeAuroora = file("ExistingCrimsonAnnette.txt")
+  }
+  DeafeningIndigoSacha = {
+    legit = "What did one nut say as he chased another nut?  I'm a cashew!"
+  }
+  DepressedRoseCheslie = false
+  StupidAmaranthGiana = "Why didnt the skeleton cross the road? Because he had no guts."
+  PoliteCrimsonJuana = true
+  ElectricalRoseMarget = file("RoughCrimsonPammi.txt")
+  HomelySapphireSuellen = "Dad Im hungry  Hi hungry Im dad"
+  RomanAmaranthJaneczka = file("ComprehensiveBronzeAurelia.txt")
+  _hidden_value = true
+}

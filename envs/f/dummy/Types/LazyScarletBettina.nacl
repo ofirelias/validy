@@ -1,0 +1,51 @@
+type dummy.LazyScarletBettina {
+  annotations {
+    dummy.DEFAULT StrongGreenTammi {
+    }
+    number NakedBlackAdara {
+    }
+    boolean UncertainWhiteValene {
+    }
+    boolean TastyAzureDevondra {
+    }
+    json FederalHarlequinGladys {
+    }
+    number AmbitiousAquaLayney {
+    }
+  }
+  boolean AcademicBlackFaythe {
+  }
+  number SwiftLavenderVania {
+  }
+  number SovietFuchsiaJennica {
+  }
+  dummy.NaughtyHarlequinGertie EquivalentAquaYevette {
+    CombativeTanShari = 865
+    SmallAmaranthDebbie = true
+    CoolTealRay = "Did you know that protons have mass? I didn't even know they were catholic."
+    ElegantTomatoAnnabell = true
+    RelativeBlueLenee = false
+    RigidCyanBeitris = "Why did the kid cross the playground? To get to the other slide."
+    ProudAquaDreddy = "Whoever invented the knock-knock joke should get a no bell prize."
+    ExcitedHarlequinBessie = file("ForthcomingWhitePrue.txt")
+    ExpectedBlushCristionna = true
+    CasualChocolateKimberly = false
+  }
+  dummy.ProminentBlueAlbina DizzyTealJessy {
+    VaryingBeigeCory = file("RoundPinkLethia.txt")
+    OnlyGreenMaureen = "What did the father tomato say to the baby tomato whilst on a family walk? Ketchup."
+    SorryHarlequinMasha = true
+    AlliedWhiteCindy = 706
+    GenuineBlackAudrie = file("ElderlyLimeJaquenette.txt")
+    BitterMaroonAile = 487
+  }
+  StrongGreenTammi = {
+    legit = "Did you hear about the guy whose whole left side was cut off? He's all right now."
+  }
+  NakedBlackAdara = 114
+  UncertainWhiteValene = false
+  TastyAzureDevondra = true
+  FederalHarlequinGladys = "I knew I shouldn't steal a mixer from work, but it was a whisk I was willing to take."
+  AmbitiousAquaLayney = 138
+  _hidden_value = true
+}

@@ -1,0 +1,94 @@
+type dummy.OriginalBeigeAgnes {
+  annotations {
+    dummy.TropicalScarletCora DamagedMoccasinPennie {
+    }
+    dummy.BroadGreenJacynth HandsomeGoldDolley {
+    }
+    dummy.CreativeScarletSerene DiverseAmberEvelyn {
+    }
+    dummy.BroadGreenJacynth TanAquamarineLacie {
+    }
+    dummy.TropicalScarletCora HuskyBrownTarrah {
+    }
+    serviceid ThoughtfulAquaFleurette {
+    }
+    dummy.BroadGreenJacynth SteadyAmethystKeeley {
+    }
+  }
+  dummy.SunnyScarletGayle CalmMaroonKarmen {
+    CuddlyBronzeShellie = false
+    WorryingPlumBev = true
+    MonetaryAquaRuthe = false
+    WonderfulAmethystTiertza = file("WorthyAmberChristye.txt")
+    AfraidChocolateAlla = "Did you hear about the guy whose whole left side was cut off? He's all right now."
+    SharedGrayDulciana = false
+    InappropriateGoldAnaliese = file("TragicCrimsonLeia.txt")
+    RegulatoryAmethystStacie = 339
+    ModernYellowPaola = 465
+    EssentialLavenderMilli = true
+    WearyCrimsonJannel = false
+    DramaticAquamarineSheila = true
+  }
+  boolean NosyLimeJackelyn {
+  }
+  dummy.RedPeachFaunie BloodyCyanKatie {
+    UnderlyingGreenHatty = "A steak pun is a rare medium well done."
+    ColossalLavenderMurial = "Why did the kid cross the playground? To get to the other slide."
+    StickyRedJudith = "Slept like a log last night  woke up in the fireplace."
+    AggressiveGreenLura = file("PrettyCyanAdrienne.txt")
+    SlowCoffeeBernice = {
+      legit = "What did one nut say as he chased another nut?  I'm a cashew!"
+    }
+    AngryRoseRowena = 751
+    FatAquamarineMyrah = "I thought my wife was joking when she said she'd leave me if I didn't stop signing \"I'm A Believer\"... Then I saw her face."
+    TastelessCrimsonCandra = "How come the stadium got hot after the game? Because all of the fans left."
+  }
+  dummy.HighMagentaDevi AlliedCoffeeLu {
+    OutdoorAzureGwenette = "I was fired from the keyboard factory yesterday.  I wasn't putting in enough shifts."
+    IntegralAmaranthPatrica = file("IdealAzureSusy.txt")
+    NastyLimeMarsha = "What did one nut say as he chased another nut?  I'm a cashew!"
+    AmusedYellowMair = "Why did the kid cross the playground? To get to the other slide."
+    SquareBlushMara = false
+    AdequateBeigeCordelie = "Why was it called the dark ages? Because of all the knights. "
+    ComingCrimsonCaty = "Dad Im hungry  Hi hungry Im dad"
+    ScarySilverAdrianna = 368
+    MightyBlueDorian = "Why didnt the skeleton cross the road? Because he had no guts."
+    GreatPeachCharita = false
+    PositiveOrangeAshlie = "I'll tell you what often gets over looked... garden fences."
+  }
+  "List<dummy.SharpHarlequinOpalina>" LonelyGoldTawsha {
+    WeeklyPinkGwyneth = 87
+    TenseIvoryDelcina = "What do you call two barracuda fish?  A Pairacuda!"
+    StandardRoseRosanne = 428
+    NuttyOliveJewel = true
+    PresentAmberAileen = "Did you hear about the guy whose whole left side was cut off? He's all right now."
+    JealousAquamarineAbby = file("ExoticAmethystSher.txt")
+    TrickyHarlequinGarland = "A steak pun is a rare medium well done."
+  }
+  json CasualAmberSayre {
+  }
+  json MidLavenderBrana {
+  }
+  dummy.RedPeachFaunie SignificantVioletSteffi {
+    UnderlyingGreenHatty = "Why is Peter Pan always flying? Because he Neverlands."
+    ColossalLavenderMurial = "I knew I shouldn't steal a mixer from work, but it was a whisk I was willing to take."
+    StickyRedJudith = "Why does a Moon-rock taste better than an Earth-rock? Because it's a little meteor."
+    AggressiveGreenLura = file("DisturbedOliveKatherina.txt")
+    SlowCoffeeBernice = {
+      legit = "What did the father tomato say to the baby tomato whilst on a family walk? Ketchup."
+    }
+    AngryRoseRowena = 535
+    FatAquamarineMyrah = "What do you call two barracuda fish?  A Pairacuda!"
+    TastelessCrimsonCandra = "Whoever invented the knock-knock joke should get a no bell prize."
+  }
+  serviceid DrivingScarletCarolynn {
+  }
+  DamagedMoccasinPennie = file("GreyIndigoCatriona.txt")
+  HandsomeGoldDolley = file("DevelopedBronzeJosee.txt")
+  DiverseAmberEvelyn = 703
+  TanAquamarineLacie = file("SurprisingRoseHildegaard.txt")
+  HuskyBrownTarrah = file("SuddenCrimsonSalome.txt")
+  ThoughtfulAquaFleurette = "Slept like a log last night  woke up in the fireplace."
+  SteadyAmethystKeeley = file("DeadCoffeeKarlie.txt")
+  _hidden_value = true
+}

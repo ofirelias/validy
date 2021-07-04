@@ -1,0 +1,60 @@
+type dummy.YummyAmberAnthea {
+  annotations {
+    serviceid TightRedMonique {
+    }
+    string TastelessBlueCherrita {
+    }
+    dummy.LatinIvoryCarmen FatJadeCathie {
+    }
+    serviceid SoundTanDevin {
+    }
+    dummy.VictoriousHarlequinDebbie StrictBeigeKarissa {
+    }
+    json LikelyAzureZonnya {
+    }
+    string BumpyLavenderElbertina {
+    }
+    dummy.ConcretePurpleLuise IntegralIndigoCherie {
+    }
+    string ProposedYellowNesta {
+    }
+    json AdministrativeAzureMeredith {
+    }
+    number FrightenedCoralDottie {
+    }
+    dummy.ConcretePurpleLuise CrazyAmethystAnthea {
+    }
+    serviceid CleverAmethystLorne {
+    }
+    dummy.SafeScarletMarguerite UndergroundCyanSusannah {
+    }
+    dummy.DifficultTurquoiseMaible KeyMagentaCorine {
+    }
+    boolean DarkCoralAubrie {
+    }
+    dummy.ArmedRedCass CompleteMoccasinEadie {
+    }
+    dummy.BalancedFuchsiaAnny PhysicalSilverKira {
+    }
+    serviceid DeafeningGrayBessy {
+    }
+  }
+  TightRedMonique = "I was fired from the keyboard factory yesterday.  I wasn't putting in enough shifts."
+  TastelessBlueCherrita = "Did you hear the joke about the wandering nun? She was a roman catholic."
+  FatJadeCathie = true
+  SoundTanDevin = "Why do birds fly south for the winter? Because it's too far to walk."
+  StrictBeigeKarissa = true
+  LikelyAzureZonnya = "Did you hear about the guy whose whole left side was cut off? He's all right now."
+  BumpyLavenderElbertina = "What creature is smarter than a talking parrot? A spelling bee."
+  IntegralIndigoCherie = true
+  ProposedYellowNesta = "To be Frank, I'd have to change my name."
+  AdministrativeAzureMeredith = "A steak pun is a rare medium well done."
+  FrightenedCoralDottie = 300
+  CrazyAmethystAnthea = true
+  CleverAmethystLorne = "What creature is smarter than a talking parrot? A spelling bee."
+  UndergroundCyanSusannah = 101
+  KeyMagentaCorine = false
+  DarkCoralAubrie = false
+  PhysicalSilverKira = file("GorgeousAzureStephanie.txt")
+  DeafeningGrayBessy = "Did you know that protons have mass? I didn't even know they were catholic."
+}

@@ -1,0 +1,66 @@
+type dummy.DevelopedAquamarineDeane {
+  annotations {
+    dummy.VictoriousHarlequinDebbie ReadyIvoryJackquelin {
+    }
+    number MinorCoralPenelopa {
+    }
+    dummy.LatinIvoryCarmen StripedRedLinette {
+    }
+    dummy.ValuableRedDeeann DistinctPinkSosanna {
+    }
+    dummy.NervousLimeFina CompatibleAmberDorothee {
+    }
+    dummy.EasyEmeraldDeloris BlankCoralModesty {
+    }
+    json UnnecessaryBlueCarolin {
+    }
+    dummy.ValuableRedDeeann SilkyLimeElisabet {
+    }
+    dummy.RedPeachFaunie HelpfulPinkBertha {
+    }
+    json SlimyYellowOrel {
+    }
+    boolean ImportantIndigoTimothea {
+    }
+    serviceid FlexibleAmberTabbie {
+    }
+    serviceid CrudeYellowVivianne {
+    }
+    number InternationalMaroonJessalin {
+    }
+    number UninterestedBlackLeisha {
+    }
+    dummy.VictoriousHarlequinDebbie StuckAmethystIlene {
+    }
+    number DirtyGreenNiki {
+    }
+    dummy.RealAmethystFawne CurlyBlackAlmira {
+    }
+    dummy.BroadGreenJacynth DesirableTanKellen {
+    }
+    serviceid ElatedSalmonDolli {
+    }
+    string DualSilverKassi {
+    }
+  }
+  ReadyIvoryJackquelin = true
+  MinorCoralPenelopa = 283
+  StripedRedLinette = false
+  DistinctPinkSosanna = false
+  CompatibleAmberDorothee = 693
+  UnnecessaryBlueCarolin = "Dad Im hungry  Hi hungry Im dad"
+  SilkyLimeElisabet = false
+  HelpfulPinkBertha = file("LeadingBronzeCassandre.txt")
+  SlimyYellowOrel = "My first time using an elevator was an uplifting experience. The second time let me down."
+  ImportantIndigoTimothea = true
+  FlexibleAmberTabbie = "Why was it called the dark ages? Because of all the knights. "
+  CrudeYellowVivianne = "Why did the tomato blush? Because it saw the salad dressing."
+  InternationalMaroonJessalin = 552
+  UninterestedBlackLeisha = 683
+  StuckAmethystIlene = true
+  DirtyGreenNiki = 190
+  CurlyBlackAlmira = file("ScaryAzureOdelia.txt")
+  DesirableTanKellen = file("CheerfulApricotCassandry.txt")
+  ElatedSalmonDolli = "I was fired from the keyboard factory yesterday.  I wasn't putting in enough shifts."
+  DualSilverKassi = "Why didnt the skeleton cross the road? Because he had no guts."
+}

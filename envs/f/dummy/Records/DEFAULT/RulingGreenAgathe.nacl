@@ -1,0 +1,4 @@
+dummy.DEFAULT RulingGreenAgathe {
+  legit = "Did you know that protons have mass? I didn't even know they were catholic."
+  _parent = dummy.CurvedTomatoJaclyn
+}

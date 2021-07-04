@@ -1,0 +1,51 @@
+type dummy.RelevantSilverAlma {
+  annotations {
+    dummy.SafeScarletMarguerite PreferredLavenderJoelie {
+    }
+    boolean LuckyMagentaAthena {
+    }
+    dummy.CreativeScarletSerene DependentWhiteGilly {
+    }
+    number ConsiderableGoldJillane {
+    }
+    number ChosenTanNydia {
+    }
+    string DutchCoffeeJemimah {
+    }
+  }
+  "List<dummy.SunnyScarletGayle>" EndlessSalmonLissa {
+    CuddlyBronzeShellie = true
+    WorryingPlumBev = false
+    MonetaryAquaRuthe = true
+    WonderfulAmethystTiertza = file("EasyAmethystRasia.txt")
+    AfraidChocolateAlla = "What is a centipedes's favorite Beatle song?  I want to hold your hand, hand, hand, hand..."
+    SharedGrayDulciana = false
+    InappropriateGoldAnaliese = file("DustyIvoryJoline.txt")
+    RegulatoryAmethystStacie = 918
+    ModernYellowPaola = 558
+    EssentialLavenderMilli = false
+    WearyCrimsonJannel = true
+    DramaticAquamarineSheila = true
+  }
+  json SkilledBlueBird {
+  }
+  serviceid DynamicPurpleDyana {
+  }
+  number ScientificPinkCesya {
+  }
+  dummy.NervousLimeFina ManyAmberCatriona {
+    IdenticalBronzeRori = "I'll tell you what often gets over looked... garden fences."
+    GloriousBlushCosetta = file("SuperbRoseCoralie.txt")
+  }
+  number DisturbedBeigeKathryne {
+  }
+  json CharmingCoffeeLetitia {
+  }
+  PreferredLavenderJoelie = 165
+  LuckyMagentaAthena = false
+  DependentWhiteGilly = 394
+  ConsiderableGoldJillane = 765
+  ChosenTanNydia = 2
+  DutchCoffeeJemimah = "Im only familiar with 25 letters in the English language. I dont know why."
+  _hidden_value = true
+}
