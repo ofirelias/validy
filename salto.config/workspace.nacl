@@ -1,5 +1,10 @@
 workspace {
+<<<<<<< HEAD
   uid = "1e05801e-e379-432b-bd6e-395a3c315f24"
   name = "palam"
+=======
+  uid = "6c373998-02bf-47b1-bde1-e4046476f1f9"
+  name = "asdf"
+>>>>>>> 2d4635a (Salto initial commit)
   staleStateThresholdMinutes = undefined
 }
